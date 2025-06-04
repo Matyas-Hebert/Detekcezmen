@@ -1,0 +1,16 @@
+{
+  "Files": {
+    "Models/AnalyzeResult.cs": {
+      "Hash": "B9Od957L17We61NoMHyysp639S4IdklD6uinPCtGxe8=",
+      "Version": 5
+    },
+    "Models/FileMetadata.cs": {
+      "Hash": "27K5ThAhBw7LeO6wW7mJplNj96TyeydopPKeEmeCZ7g=",
+      "Version": 1
+    },
+    "Models/ErrorViewModel.cs": {
+      "Hash": "lCy9M\u002BlUDQQmUFPwxBlwlj/tvT5W7f/yBGao1u8ICzY=",
+      "Version": 1
+    }
+  }
+}

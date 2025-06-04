@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page ";
+}
+
+<form method="post" asp-action="Analyze" asp-asp-controller="Home">
+    <div class="form-group">
+        <label for="srcfolder">Source Folder</label>
+        <input type="text" placeholder="input folder" name="srcfolder" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Analyze</button>
+</form>
+
+@if (Model != null){
+    <h2>Analysis Results</h2>
+    <div class="results">
+        @if (Model.ChangedFiles.Count + Model.NewFiles.Count + Model.DeletedFiles.Count > 0){
+            <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+                <thead>
+                    <tr>
+                        <th style="text-align: left;">File Name</th>
+                        <th style="text-align: center;">Version</th>
+                        <th style="text-align: center;">Change Type</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var changedfile in Model.ChangedFiles)
+                    {
+                        <tr>
+                            <td style="text-align: left;">@changedfile.Item1</td>
+                            <td style="text-align: center;">@changedfile.Item2</td>
+                            <td style="text-align: center;">Modified</td>
+                        </tr>
+                    }
+                    @foreach (var newfile in Model.NewFiles)
+                    {
+                        <tr>
+                            <td style="text-align: left;">@newfile.Item1</td>
+                            <td style="text-align: center;">@newfile.Item2</td>
+                            <td style="text-align: center;">New</td>
+                        </tr>
+                    }
+                    @foreach (var deletedfile in Model.DeletedFiles)
+                    {
+                        <tr>
+                            <td style="text-align: left;">@deletedfile.Item1</td>
+                            <td style="text-align: center;"></td>
+                            <td style="text-align: center;">Deleted</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else {
+            <p>No changes detected.</p>
+        }
+        
+    </div>
+}

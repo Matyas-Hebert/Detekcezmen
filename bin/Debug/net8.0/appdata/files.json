@@ -1,0 +1,3536 @@
+{
+  "Files": {
+    "Models/AnalyzeResult.cs": {
+      "Hash": "RdOj3P5tWMUDr\u002BZkzRKg37ueO0Zn8sOTmNgZ40WvR8I=",
+      "Version": 6
+    },
+    "Models/FileMetadata.cs": {
+      "Hash": "27K5ThAhBw7LeO6wW7mJplNj96TyeydopPKeEmeCZ7g=",
+      "Version": 1
+    },
+    "Models/ErrorViewModel.cs": {
+      "Hash": "lCy9M\u002BlUDQQmUFPwxBlwlj/tvT5W7f/yBGao1u8ICzY=",
+      "Version": 1
+    },
+    "Views/_ViewImports.cshtml": {
+      "Hash": "ZddgCSftoRfxCvlt3IgMGtRDA4d7hP91Blk6fSbISxQ=",
+      "Version": 1
+    },
+    "Views/_ViewStart.cshtml": {
+      "Hash": "G4SW0VcI5dZVS2B\u002BzKTiJtl5f/323Jf/EME3rl9fzPQ=",
+      "Version": 1
+    },
+    "Views/Home/Index.cshtml": {
+      "Hash": "VJB8nX8ztW7WJ5vLanmOoBEDyx/cZ7MAEbwVYbNaNVA=",
+      "Version": 1
+    },
+    "Views/Home/Privacy.cshtml": {
+      "Hash": "CTeUFekwHZvV/h63tWPnubf6QvABub7tXMOO3YiIfDY=",
+      "Version": 1
+    },
+    "Views/Shared/_Layout.cshtml.css": {
+      "Hash": "YdSvYqzP8slyr7h6YWHXVh47y7TTJ2fakXhiOe8M3lk=",
+      "Version": 1
+    },
+    "Views/Shared/_ValidationScriptsPartial.cshtml": {
+      "Hash": "I8rP/3rdB7\u002BtKS/IJvUpNLgUEAa3JUepom5HVOdLr\u002BY=",
+      "Version": 1
+    },
+    "Views/Shared/Error.cshtml": {
+      "Hash": "bavshRhzOhBsZ0lLbMXzB7Z8jEfEBLGrkBkXc\u002B9oQQE=",
+      "Version": 3
+    },
+    "Views/Shared/_Layout.cshtml": {
+      "Hash": "2TUkJ6XiJ0SKh5h1zhPmSGhJBhjeEwRk0e/gzah1js0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/appsettings.json": {
+      "Hash": "IAMytDR1egBUo9NWyRzeAfLEhxK\u002BiqK8sPPpc2GfBuM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/detekcezmen.csproj": {
+      "Hash": "S8p2X9PoI0V1jqkfKdlmGCPI4514QA59a93RHLkIP6Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/appsettings.Development.json": {
+      "Hash": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Program.cs": {
+      "Hash": "SYzcMJhpH5Ro\u002ByuHE4UPk/ixWLT7loCkzrjiQ7vQRkM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/detekcezmen.sln": {
+      "Hash": "w4iurN3PLnjtblCyX9HfmdTo0goC6VlXT2Td1uxEePM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/project.assets.json": {
+      "Hash": "0\u002BeVL\u002BrXp5tj3Qt9wZYtJPYBvr/Jw7IP2P2LcMRdHqo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/detekcezmen.csproj.nuget.g.targets": {
+      "Hash": "jXAnqsfeUcFtOj3bpHwYqb4xyLBAGz/BGqVD5pBUTzI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/project.nuget.cache": {
+      "Hash": "Wq5/zUHOTUvOvn8ai72MDjzGn9WvvHabmhwHWOwoY\u002BE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/detekcezmen.csproj.nuget.g.props": {
+      "Hash": "0YO\u002BwLondlTk3VROb\u002BOY4bg4cL8ieLDiGtvuYsqpVkY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/detekcezmen.csproj.nuget.dgspec.json": {
+      "Hash": "VwtAV9u91h4gPfIdT3\u002BzUhCPIBmkVXTyZ5SgQo5kJYs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.assets.cache": {
+      "Hash": "rijHiVAcY1t8Rp7fo\u002BlnqxXaGizgq4vLNxwBVyhGJDY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs": {
+      "Hash": "NQnAE00BQX5y2siMkWKXijOiiGi1tBaqlGyr3w2CIZg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.RazorAssemblyInfo.cache": {
+      "Hash": "PxFiD22ImIjqcLMoO20ZWDFT1BsRT0Kk4BPPTvuJUhA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.csproj.CoreCompileInputs.cache": {
+      "Hash": "SMCvA6LkqvK2ntutqj6gPxVcB5OborD86Vvi5oS1R2o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.genruntimeconfig.cache": {
+      "Hash": "2H8EYyP2DmKDoroULZ4rBUJG4TD4/TgB0S0u9iMunE8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/PublishOutputs.57323e1168.txt": {
+      "Hash": "G2D4SH5hualkj0rHxZW1WLZZTHopuo5gTnONLH3y/4g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.RazorAssemblyInfo.cs": {
+      "Hash": "fPMazpj3BioYZrfQPo4MEM2Q1gNCYX0XMWvB3xdhXRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.dll": {
+      "Hash": "muiDXLVfl7KT/mb0EoJk\u002BbBT15mknMBRPd3n3/6Cs4o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/apphost": {
+      "Hash": "ZVvgBdQ3GmgX312PGzHEIv/cUlVXjm2jtlnH0X9ZDy4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets.development.json": {
+      "Hash": "9Zy0F03JSWGm84M8/7E7RKlCz/w2fn5I3aJxbjW8w18=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.MvcApplicationPartsAssemblyInfo.cache": {
+      "Hash": "47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.AssemblyInfoInputs.cache": {
+      "Hash": "CpcK/a0yYNXM2xSIG5KqoTm\u002BlIfuhR5qOzr98JQLXsg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.pdb": {
+      "Hash": "6yH\u002BjMbb4AkZd4NjcVWpFbUc0prmrzcYkUVuVjbbIJk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.csproj.FileListAbsolute.txt": {
+      "Hash": "mwBx3XiWHfNoVsdXbulvJeB6CEdyrMdROeZ1SjbYK1I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcez.B3FBCEBD.Up2Date": {
+      "Hash": "47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets.pack.json": {
+      "Hash": "aHVhPBX\u002Byz2DKWo6lA16/73vVVbN6KNR4\u002ByTjHUAXGQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets.build.json": {
+      "Hash": "9gXHrSMjGZpZuaz/tYu2S01J3l3mBi8MwJYgalFM6T8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.AssemblyInfo.cs": {
+      "Hash": "d9/I2OSYklSBXeyf3KUdSd07LL8CnjJxvx66ZcfeNpQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets.publish.json": {
+      "Hash": "kngAb9k42rSYme8D42gO39MCd9bsZcFXUvTaakWhnJw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.GeneratedMSBuildEditorConfig.editorconfig": {
+      "Hash": "9bn6QK\u002BZtLrePvdE7NXd81jpPkMRiAmYTGpheBYd5Zc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/detekcezmen.GlobalUsings.g.cs": {
+      "Hash": "zNOfYtkaH2fDUlF4wBMd//cYs1xeWL6xT2qAgn8h6tE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/refint/detekcezmen.dll": {
+      "Hash": "zi4NY6WsAOF6ebuB/w9/RlurmrbLhvEgE\u002BcVJwyQB8E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets/msbuild.detekcezmen.Microsoft.AspNetCore.StaticWebAssets.props": {
+      "Hash": "nV6GIJ0uiEljLREaUeQ5eGgFWft1AbZC/kEvzlyQJBA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets/msbuild.build.detekcezmen.props": {
+      "Hash": "lTJSA2Yy9l3wBckTQ5\u002BwBsE2PUd/7zaffJD6SP3w1Lo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets/msbuild.buildMultiTargeting.detekcezmen.props": {
+      "Hash": "YFGx6phwabJAJJo13Bax5nrt012FhiReWek2Pc9CgF8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/staticwebassets/msbuild.buildTransitive.detekcezmen.props": {
+      "Hash": "/ancPwAbLy8ZM6E1qJ1YrW27SPOtgsbSLPTtyJ4mfHI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css": {
+      "Hash": "4GNgnQlAREkwVEHmIBQip15NcvJc9kEaFdpfnKv2Xs0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/scopedcss/projectbundle/detekcezmen.bundle.scp.css": {
+      "Hash": "lrVmH\u002BKAmZuQFwKOchSm6VBXdKjw/da37osFKC4KbRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/scopedcss/bundle/detekcezmen.styles.css": {
+      "Hash": "lrVmH\u002BKAmZuQFwKOchSm6VBXdKjw/da37osFKC4KbRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Release/net8.0/linux-x64/ref/detekcezmen.dll": {
+      "Hash": "zi4NY6WsAOF6ebuB/w9/RlurmrbLhvEgE\u002BcVJwyQB8E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.assets.cache": {
+      "Hash": "nbf4\u002BpzZO3xFsCFzNWBIfJXbxSnrvXtR9z6casTP09Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs": {
+      "Hash": "NQnAE00BQX5y2siMkWKXijOiiGi1tBaqlGyr3w2CIZg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.RazorAssemblyInfo.cache": {
+      "Hash": "PxFiD22ImIjqcLMoO20ZWDFT1BsRT0Kk4BPPTvuJUhA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.csproj.CoreCompileInputs.cache": {
+      "Hash": "/T2dT/6GgXIAreXby4iVhRnHTpD4h7HG95/9NpmJ/J4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.genruntimeconfig.cache": {
+      "Hash": "rJucXai6c85QkSZRW0cef6FZlDNna9QVYu0Bvusp3C8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.RazorAssemblyInfo.cs": {
+      "Hash": "fPMazpj3BioYZrfQPo4MEM2Q1gNCYX0XMWvB3xdhXRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.dll": {
+      "Hash": "UG5KMOqR7\u002BiKLTfGBvadukR\u002B2fv4ArlIXG\u002By5HZcOz4=",
+      "Version": 7
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/apphost": {
+      "Hash": "ZVvgBdQ3GmgX312PGzHEIv/cUlVXjm2jtlnH0X9ZDy4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets.development.json": {
+      "Hash": "nt7qDnSA2rVf6nw5n8i6bVf2evRVVJoaXTBry1nibIY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.MvcApplicationPartsAssemblyInfo.cache": {
+      "Hash": "47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.AssemblyInfoInputs.cache": {
+      "Hash": "e\u002BSapSFD1XX64J0\u002BEhy6XN1AdxBaB3R/U4njad5AX\u002B0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.pdb": {
+      "Hash": "P8XMIwPrQSVbuH8OWU76vYKDhzGBt7pZa\u002BrJaKu7Adw=",
+      "Version": 7
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.csproj.FileListAbsolute.txt": {
+      "Hash": "Ii4kkp3xGuYsH98jUp0/Q2PpRyVtC6m0xZPjaqmWBQg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets.pack.json": {
+      "Hash": "GwFANoFTxy2m4UZl7J45/wqHSNuoMXyS2GnNPJqBLSI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets.build.json": {
+      "Hash": "uHCSwczMgVkIETpfexhB4iHKPagxSuiVc/qwR1rTGQw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.AssemblyInfo.cs": {
+      "Hash": "Q1TYZvXoW\u002BOv5y6rh7kYpfY2U2jaHRUt\u002BBQqyqhCQm8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.GeneratedMSBuildEditorConfig.editorconfig": {
+      "Hash": "9bn6QK\u002BZtLrePvdE7NXd81jpPkMRiAmYTGpheBYd5Zc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/detekcezmen.GlobalUsings.g.cs": {
+      "Hash": "zNOfYtkaH2fDUlF4wBMd//cYs1xeWL6xT2qAgn8h6tE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/refint/detekcezmen.dll": {
+      "Hash": "YNhSC05ub4XQCLhf/IEO\u002B63zdruj4Yacmh1sjajK7f0=",
+      "Version": 5
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets/msbuild.detekcezmen.Microsoft.AspNetCore.StaticWebAssets.props": {
+      "Hash": "nV6GIJ0uiEljLREaUeQ5eGgFWft1AbZC/kEvzlyQJBA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets/msbuild.build.detekcezmen.props": {
+      "Hash": "lTJSA2Yy9l3wBckTQ5\u002BwBsE2PUd/7zaffJD6SP3w1Lo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.detekcezmen.props": {
+      "Hash": "YFGx6phwabJAJJo13Bax5nrt012FhiReWek2Pc9CgF8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.detekcezmen.props": {
+      "Hash": "/ancPwAbLy8ZM6E1qJ1YrW27SPOtgsbSLPTtyJ4mfHI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css": {
+      "Hash": "4GNgnQlAREkwVEHmIBQip15NcvJc9kEaFdpfnKv2Xs0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/scopedcss/projectbundle/detekcezmen.bundle.scp.css": {
+      "Hash": "lrVmH\u002BKAmZuQFwKOchSm6VBXdKjw/da37osFKC4KbRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/scopedcss/bundle/detekcezmen.styles.css": {
+      "Hash": "lrVmH\u002BKAmZuQFwKOchSm6VBXdKjw/da37osFKC4KbRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/obj/Debug/net8.0/ref/detekcezmen.dll": {
+      "Hash": "YNhSC05ub4XQCLhf/IEO\u002B63zdruj4Yacmh1sjajK7f0=",
+      "Version": 5
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.Json.dll": {
+      "Hash": "QBJixDb71GVdHMLUakYJyz4n/Hp\u002Bl3k88XQadLTNBkU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Numerics.Vectors.dll": {
+      "Hash": "AIXH9Bu0oQGbuCnzscIgj9oDiLBv\u002BpF16v4ObHZR1aM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.VisualBasic.dll": {
+      "Hash": "O/IJCnJK9sD6F5/IphmODFedTwj0ef/A9PEa6QWxCu0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.VisualBasic.Core.dll": {
+      "Hash": "rRXo\u002B\u002BjI\u002BaH\u002BI6pNnd74M0Z/fahoyu6YSUbxkJnSD1c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.XPath.XDocument.dll": {
+      "Hash": "OnYhGF6BLQSL2ReXgwFBo1Vza\u002Ber97RgI5TS7946QgI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.SignalR.Core.dll": {
+      "Hash": "QSc0BgGtRgU75KiIviEIAMe0Fz0WgJhkxtoIunbE660=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.dll": {
+      "Hash": "JUyN37ENXFCtKNg4rcgBtbTEg0Q9fjmM254gbHaRg6g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.IsolatedStorage.dll": {
+      "Hash": "\u002BHo3NImwXq0EBglJPsMGacsLxCnJH\u002BeZOD\u002B\u002BvWaDtpQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Collections.dll": {
+      "Hash": "Xg75\u002BwCarBseDiYAkLvrFMZGbHaVoHx4eTn93mcWMbw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Dynamic.Runtime.dll": {
+      "Hash": "uTgtTANGclIJpPhuoibT7GEJs2fTvOmMe4R0Gt6Ik2o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Diagnostics.dll": {
+      "Hash": "GPECgyMYKcqi5Mzwy79bHDijO1vcWs7gh\u002BwHsn9eVGU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Linq.Parallel.dll": {
+      "Hash": "zCIrmjtEs7dSj5yHct4xjlDiq4PJAXZl5MYDEqsYsb0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libclrgc.so": {
+      "Hash": "cQAS/UXPyfQicPHj6fbg0j3HYzhMpUKFvayJ8JqCpkU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Identity.dll": {
+      "Hash": "X5cIQ3ZYG70xsK9Gd\u002BUJe5s8OCK4OI0yHMvleKP\u002BGsM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Connections.Abstractions.dll": {
+      "Hash": "A0/sfX4FIrEyczfV\u002BWYGmDaqBBpUk4EQnWMN/DEDrp0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Routing.Abstractions.dll": {
+      "Hash": "Z31fg1LmsgOOA7r8hySNpCCX2I4FevD02m7qq\u002BJrEBQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Collections.Specialized.dll": {
+      "Hash": "cgMrBzwh9iPlN8u/4NJGqfOckLkKpo2d\u002BGmJdLCF09s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.dll": {
+      "Hash": "SLDaOg1rXshRyvSMA9ryQNjAFHrh1oKiNSj9eq2i838=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Hosting.Abstractions.dll": {
+      "Hash": "IUaHms9Ns\u002BNA7Gw8kWVN0nPkRndCIMnNZV6d1NG0vns=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/appsettings.json": {
+      "Hash": "IAMytDR1egBUo9NWyRzeAfLEhxK\u002BiqK8sPPpc2GfBuM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {
+      "Hash": "YrwotZwwlYlRKjx/lkOqh9b3LpJ9JEAHDeF0nkfRdVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.TraceSource.dll": {
+      "Hash": "KQTIOyYVU27ukGf975iOfymmwQmB6iHr29k9GbHmG1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Collections.NonGeneric.dll": {
+      "Hash": "IXZpQay1jsrGuMMCbA7/BhcUXZlGyeudo9ZTHC1y9gA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Serialization.Json.dll": {
+      "Hash": "s/D/bvxxKGBoEKhhFg9kZzQuZZKaTjM0H8P\u002B/O022V4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.HostFiltering.dll": {
+      "Hash": "qNn8QdWIGhUpi2Z4XbhkkTadMb/Mi/I4dReZx8bbhzU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.RegularExpressions.dll": {
+      "Hash": "bt2Yya\u002BnDhHtqfyqcjb65nYz211FspRQlrijZ8BzOO4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Tasks.Extensions.dll": {
+      "Hash": "jx9lv8pnhcupnT1TuQZB/82NQJuxIdLpkmua6\u002BiurwQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Localization.dll": {
+      "Hash": "0vU7AxA8v7qlR5VztslT9DAy1GoK5/GE/97bu7BRkFM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen.deps.json": {
+      "Hash": "ELRbmoXw1ip9OTVGkwsMe9xXCaE7nfOvzsYgBqDgUs8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Drawing.dll": {
+      "Hash": "l0O0JQ1o4144vwrssGd4e1rOCxY6R5jNcz\u002Bybdiky0E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.WebHeaderCollection.dll": {
+      "Hash": "psk47a4h1KlnboyB4HXIwiCc/qz82XckxcyRuk7UMts=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Abstractions.dll": {
+      "Hash": "Hlg5dkwj6ovNAuD2OhxJS8Y\u002ByOcPFF7amUAWIceqIBA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Compression.FileSystem.dll": {
+      "Hash": "y2QfrN0masyEGxQncqIzDZEBXou3d02T7lsPGwEffjc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Globalization.Calendars.dll": {
+      "Hash": "5XbclZNmC4KVFckSIjCdbGz5\u002Bc6MHF2D8RyJvbghF7o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Encoding.dll": {
+      "Hash": "KVT6cH2Aa8mFnxtdzryMguppzICfIOkO7x93t9MWW3I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll": {
+      "Hash": "em9Rr994XOEJkExzjwr/x/LzRrvIDSHz2K6uYZea6\u002BU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Private.DataContractSerialization.dll": {
+      "Hash": "A3DowKeaagbpVR6BA\u002B7AwOpn0Xb3KPIgLaAU0oGYEJs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.RateLimiting.dll": {
+      "Hash": "eXCv7tc63aiJ637tXe13y\u002Bpueu\u002BgX5tr03kXXWSiJM8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.dll": {
+      "Hash": "0g0P72DhrLu2gOIqg6R5MnyjafZbMEolmencj8cK0DI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.AppContext.dll": {
+      "Hash": "VLS4cF\u002BjbbaDdD5dXS/cvbaNcunfO3g81kfL94l3fg4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Formats.Asn1.dll": {
+      "Hash": "CzJ7U02eQN7LKbrzgKu8b/W0Zz5TGhTIUq8tx9\u002BvBXg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Windows.dll": {
+      "Hash": "y0iR0p3gKwx8JEJ6jytZLAxw0Wk94OzFxh4nGdh1Q90=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.XmlDocument.dll": {
+      "Hash": "iRKf3YHAWLoL7cwDKRZOm5YBJ/5bAyI4VbSn2gwURCQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Identity.Core.dll": {
+      "Hash": "fetAbi8G0\u002BFwHBnTGnkTefu2fntjsf8xqLgA0/OWfCY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Mail.dll": {
+      "Hash": "KQptVZOrMH19dx/\u002BpyI4uDTazeq\u002B3qs0l3sdfFiMXjM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Cors.dll": {
+      "Hash": "W2L96HEVhdobfHIcUJ9tXAjPTznJhuzRlXSa0EYKlkw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.dll": {
+      "Hash": "uqQyvnKXtJdnrpsVAdRly6Z0gSxfWl6tC/6szOlrBIk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Resources.Reader.dll": {
+      "Hash": "1Frfqfq84x/mSA4i6Je2wA2XXPLuDb6Bv3awakq0Xtk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Overlapped.dll": {
+      "Hash": "UZhjP/biizBMNXUOvgXmuylIHOOQJSHUoisRs\u002BhAU6o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Tasks.dll": {
+      "Hash": "7UMzQ/fxAfcRsI/oHXRTazacHj5LNev7OCLXyyWYqrU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Localization.Abstractions.dll": {
+      "Hash": "Lsp7AQIqpMmKTwl2QZjEtahfV6q2NgfUgcgC0xDlP9A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Principal.dll": {
+      "Hash": "e0LIZY8e5x3ckOUV99ZxHPGTomcjK6gY15wzAbDdixU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.Cookies.dll": {
+      "Hash": "/dxMlV4Ci28NKlTmL1Zclp23C/DWe\u002Bv7dwsjfMK4XFE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.FileProviders.Embedded.dll": {
+      "Hash": "w/Qb8lrs\u002BQvhn/3HkInc9lD5V3xIEOixyfF6rgHxfiw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.HttpLogging.dll": {
+      "Hash": "drFgnoPnzhOYnCDqyN093eUQSu/hyUn2YMKW5EC/LUY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Antiforgery.dll": {
+      "Hash": "X\u002BWe0aLXp76fEcv/m8q6MCUoy5av0XJ3JQsY5/4r3Pw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.Tools.dll": {
+      "Hash": "1K5uEJI9\u002BL5aqWa8KeFKBHLwn3WLq0ChGV9BtESxxcY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Drawing.Primitives.dll": {
+      "Hash": "OvapTDmS6HZcLz8eNPTW\u002BFFWzgYQq0XX\u002BpeY0I7D1ro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+      "Hash": "a2dMnPnRIoxPNl77GmKoFWQ2wwHPSM/aMlzO8xNkBDg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.dll": {
+      "Hash": "wS7/mLnOnF43jMfDkjNEVBqpAkVyyrYmioXw7JYewFw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/WindowsBase.dll": {
+      "Hash": "68t62BPwKdL7DdD5jPqXz9q\u002Bx2w\u002BVMgHHOmctlky0fw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.SecureString.dll": {
+      "Hash": "70JZeiZ1jAPMvpTCSExnkYSrAFsmip/xSyoIsTqt2ZI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.OutputCaching.dll": {
+      "Hash": "KtzwNRCFyBWrnhoTYUSN2TyQd4SAUdoYHBM8XFbL8Jg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.WebClient.dll": {
+      "Hash": "2DzTSgEzWKIHak0dLDcS/1he4u/Uka9U4Fa/p4D5o\u002BQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll": {
+      "Hash": "nep4NRY0ZId6ZwtLbxBPBWR4S\u002Byvlrg1wBi/nL9vOtk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.WebEncoders.dll": {
+      "Hash": "pwrtDt4Jiz/RmZ9VYVxbAdi4caC1cM9Z29jnKrqE/PE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.Json.dll": {
+      "Hash": "pLVJuEpN/fSIiRK1WYYuVYvGGAxYcI2PlF065VMopg0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {
+      "Hash": "IqM4I6CSj0ZMSTLnq8G\u002BbB5aIsdnCuV0SmEF\u002B26T6aQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Formats.Tar.dll": {
+      "Hash": "8iDzXWOuklB50FSloAkIUwxOWrpmfH0s/zBunmt89AE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Results.dll": {
+      "Hash": "E\u002BQinZHYFSctDkw5fZA917l2dvQtSZ3v440Sy\u002BkypLM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.DispatchProxy.dll": {
+      "Hash": "LASfLPK\u002BRqD14IP3c/DSBo6xVGkZX9tBp/NhLgsih1I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.CompilerServices.VisualC.dll": {
+      "Hash": "C3M74fDpJQL1zD9cx3XZ/6V/L0e9sdY1QOqY6/AzBBk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.EventLog.dll": {
+      "Hash": "XeCLI\u002Ba3uC9D5uOVMaCFkcS1HtvqU/P1Mduy\u002BCQBOqM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.Server.dll": {
+      "Hash": "JJvG6CpSYb4qvaYZyp1ZXTNy9onl4quEaQB5a9y798k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libclrjit.so": {
+      "Hash": "9KvaF3Xz/ltk/7Im8oVQO1NHyn\u002B\u002BS9K7VjXx6zLl4u4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Caching.Abstractions.dll": {
+      "Hash": "Sx6DwGRhAl0vYZeDdhIaDLlQl6HY8EqTGj3JQhYR7g4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.HttpOverrides.dll": {
+      "Hash": "UFYTRXXJPuwen1eQBh/iVfNCiCQycY1h7PYTeDBIkZw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Pipes.dll": {
+      "Hash": "SYpRz1BrqHiYsrluORFnjfiYe5TUp8jp6flGeep8d4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.FileSystemGlobbing.dll": {
+      "Hash": "P\u002BGgTaMNRu\u002BIQyclJTjiTO8C2ensu0AQWB\u002Bv9Dy6P2I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Connections.dll": {
+      "Hash": "8XuWz\u002BZMW7ABhhvM8zMfdud3m3ioBNjekP8JIyvnAIY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Extensions.dll": {
+      "Hash": "zPGPcMTPAcNtyJom9xrOJ566RvwwxqnM5smLj9JyprM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/appsettings.Development.json": {
+      "Hash": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll": {
+      "Hash": "wgiYeTMK/Ii5sJ92tJSl3Za9jmQ8QZWgP5PybpszhMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.Web.dll": {
+      "Hash": "nm44omvoE8FzzTCo9ruU8cHFzRcNa61KlMVgBzKVZ0Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.StaticFiles.dll": {
+      "Hash": "MYVS7udfL/AuAylona0cEbarWy37RsxlwY99qrvH1Wc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.dll": {
+      "Hash": "hDXu4D3nO2WTkNnEXqQrmjzQvrMIdEoYeswM9OaXAjk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.Serialization.dll": {
+      "Hash": "JHAO/dZo2fsocbAr3VzcBGCz5wlqtdThuBR8CmlW0VU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Globalization.Extensions.dll": {
+      "Hash": "Aq6ORGciODMhS3VwTHYrXOvp6QBT6Yve9G4VOm6p6z4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {
+      "Hash": "WDBtyrZbQi6IK/Z8aqpSBEwkSrtSGGHJeBW\u002Bq3VmJJU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.MemoryMappedFiles.dll": {
+      "Hash": "eST2ZyxMGGOdriVp7FALWrl4SXNwGpTgpsqhexiBZiE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Compression.ZipFile.dll": {
+      "Hash": "q2iN9NGW1QLE/M59\u002BIA4p33YhvH/nfRZIaVTdETSmo0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.CookiePolicy.dll": {
+      "Hash": "R/zV52jsWTEcjULky3AksyLIXpCRytE1U/HMw\u002BRkhJw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
+      "Hash": "F/CCjChwpf9iGoKVDFAJzvi9i819uFpElU1u4JvjHpQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Options.DataAnnotations.dll": {
+      "Hash": "JohSyNf9C18ME25rZlX2S//4DBWXVEo0tPnX6fc4uss=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.WebProxy.dll": {
+      "Hash": "BP/82pnL4b8Y3IrPIiBIvcRkSTwoQxJ35aP9g9VHH48=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.dll": {
+      "Hash": "N1rGjqHZjs7jZP7I\u002BVCqeGxJatNdJEno5VfjKE1LpXs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Private.Uri.dll": {
+      "Hash": "mi6j6APiBibQQCaj9y3fttcQz51sQiKuem9e5W7eTXE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libhostfxr.so": {
+      "Hash": "vxrxUmiEcwVE0AfnUz266v7U/grL22J1CvvQZuhjO68=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Session.dll": {
+      "Hash": "\u002BsvmnlRIjQiAyPU6yKYh\u002BQeGeC6ksuYW9onZzftrSqQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Serialization.Xml.dll": {
+      "Hash": "x6v73uKYyDD8zi6N9Ffj8ScO09nx8cNLCvAOcianyLQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.SignalR.Common.dll": {
+      "Hash": "yHqNkITM8nPz0SP1kraXjzWt5BSsuHBrifhtGRDAuN4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.ObjectPool.dll": {
+      "Hash": "krlsCOBojc3fISHghNr0nOqtcjPr9lwYAblBM4NcmWo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Resources.ResourceManager.dll": {
+      "Hash": "WzAIDNIo4fpxdAsts2SfPMEyBK3qmdDtTaeAWnQUPqA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.Contracts.dll": {
+      "Hash": "oSnng51AfjtwkT5JofZuNJg5IPj8TMqQVn9U4V3Nf9w=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.Ini.dll": {
+      "Hash": "zW4YLVRT7SHpxsSpv13\u002Boplp7ojnHX\u002BrQ9W3Ugvti1I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Linq.dll": {
+      "Hash": "7VZTLJSzuTiUBk1jCW8g3bdxy\u002B8AOW21iYHSa8CrcOw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ObjectModel.dll": {
+      "Hash": "RgQDtyNh7xwJ5F\u002BXoNdl9ZHKgHq0qymB206fOrf8rpw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Pipes.AccessControl.dll": {
+      "Hash": "QxQ3DSgbmc35a7tnrDWT47X7ilQH/vfs/xNfedomXRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen.dll": {
+      "Hash": "muiDXLVfl7KT/mb0EoJk\u002BbBT15mknMBRPd3n3/6Cs4o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.dll": {
+      "Hash": "qK/N1tQtfeIIVta7Tb46bGXFlhbD7PpJhhH9d5oRaCU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.Endpoints.dll": {
+      "Hash": "trPlJKIH9NigE0NaTZIBSQL7hkpuSe8/Lm87vOPtPpU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.Debug.dll": {
+      "Hash": "hS1q4\u002BD7gQ5lpeC9CQNpv5YKDdLDqqSjEAaO\u002B52xRaM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.TypeConverter.dll": {
+      "Hash": "fw5Y4fq6oXUgTvkYc8kAfHfML80M72ZQd0tYzmlJjts=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.XPath.dll": {
+      "Hash": "/vhvBXMGA3VK20nUuCRS13uoiTj3ZnO8zVlckhuPoMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Html.Abstractions.dll": {
+      "Hash": "ro5ZFQX8TYqgslsQMN3tLNwZzILJUl8dGK7qrXzW68M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
+      "Hash": "AkcgU1TnO972WCKlozaBDVFmgP3v7huOJSLTP\u002Bf3Ry8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.FileSystem.DriveInfo.dll": {
+      "Hash": "ySU6T5QFMW1MSanVtSvnGp2BRFRR8T057y1rTs8MV80=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.dll": {
+      "Hash": "WvtcsIFCQC9skzNHyBM5wSx5DDuAchvHNc113JCLMYY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Razor.dll": {
+      "Hash": "qCjayhd/YPT3WFRLEg7g3KdA3AbcumD3RnwDd\u002BZMfC0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Core.dll": {
+      "Hash": "tnoKq\u002BbRWpjxy5\u002BvrANP2gSxLTd7hkT1NQsyru\u002BHJ1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Collections.Immutable.dll": {
+      "Hash": "t3JWV\u002BW4vawelrDKmZUFuyR0m4UKShIW/nYOrAs3NwI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+      "Hash": "A1/\u002BNjNR6CwGB9J6o4Ai41EVEkwgImzKJO0OgRwnN/M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Algorithms.dll": {
+      "Hash": "skWVXBu5/eiLI7obdspfoaXWkoq10xnQ9EhNK6HWeVI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.WebSockets.Client.dll": {
+      "Hash": "yQwiv1raxIkzQBm0kTLAvSAL2oLB2MbXzDnYDT3gfYE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Linq.Queryable.dll": {
+      "Hash": "f\u002B58fTVr964WRvP4x5arYmQY6k/qxgvTXSxuL7CUQmQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.dll": {
+      "Hash": "ys4hcTDijl6QCQ0YVFIb8JPEO/7LL91rs4AouNs8X6g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Rewrite.dll": {
+      "Hash": "IfvjDS2/qJ1HseP3fQUbFJeRSeFSszbCm\u002B03SktGgjA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.X509Certificates.dll": {
+      "Hash": "9K8k8pmvC7/1rzHWrZYUdmgwnnrPEqfq3soauPwtOVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.ThreadPool.dll": {
+      "Hash": "rSCaU3ftbdAktjBD4UqROLPw3kEGzdO1lIATxSD0Vno=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.dll": {
+      "Hash": "2GxusTTktwjsMPjbS6pf22gokO/TqjwmLkRLKbmRPSo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Quic.dll": {
+      "Hash": "QfegU5Uiqq/uUQs2bo28uenSLlxRf4BWcetZ1Iyv4Io=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Emit.Lightweight.dll": {
+      "Hash": "DhI5wecyeTxYyEbnbhnK/GrSEL/\u002BoPvtBEhUd9YqLaU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Pkcs.dll": {
+      "Hash": "1ZxLf/DBL/6dwuJfDnXak/UcXOUmDu7bfzPhFrs7G2g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.TextWriterTraceListener.dll": {
+      "Hash": "DWMzChqX\u002BSKUrBu17gah1TVLWKREawZ5ySTu76iD3NI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
+      "Hash": "kb84Z1RnSb0xx3bPmoRTSYV/HgqijeyxGapnHnPLCCk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.FileProviders.Physical.dll": {
+      "Hash": "XNmcrrOQHagwCY3EiqR6R/SQxVfyGqLofmsmdYBe84I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Primitives.dll": {
+      "Hash": "whz30V9mP1wd2BFx5jraHpphQFJF/okMU55MRvVC3Iw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {
+      "Hash": "8X3V6BQ\u002BlMq\u002BgHVDpnTKfcGhRLW7zU/Ylp8n3Wwlv3A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Metadata.dll": {
+      "Hash": "JXn3CcLUqKVsXDRDPidfjygn9Vim5jGGfkVPBjZdSig=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+      "Hash": "qazVTAcMWE6a7vwsOw8SaIlEodFCYkvmF3QHrB\u002BaLsk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.DiagnosticSource.dll": {
+      "Hash": "3sEHpMJ\u002BG6X\u002Blc9uX1PiiZRqGsTeLAfUDXJFge7xdQY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.Console.dll": {
+      "Hash": "OOsYa6D4N\u002BVA81nFvwaPjUy8Zf5BiOwEF2PhJpN4EGM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.DataAnnotations.dll": {
+      "Hash": "ssBHPAK2kcVXqpBhIJvv0tMQ1YYHYTQMpysQtIYYQnI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.OAuth.dll": {
+      "Hash": "UYp4pn\u002BQYiAHRii8JZijUWnc4sj6oTHhKHB1CcKdIco=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Cors.dll": {
+      "Hash": "X07L1I2wny7eRZPLpv1Xh\u002B4qzytreijukkrWBQ0yzUc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libSystem.IO.Compression.Native.so": {
+      "Hash": "RVS5nDg4lWeQuFziM873/JwPS8I/cdqKtMBiuHrt1HA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.ServicePoint.dll": {
+      "Hash": "YkJaNXxQny4xRn7RzCHxVEx97UOXNHRe5ckqkx2lEdM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Web.dll": {
+      "Hash": "RTD30Sk70jguN10SadmlnhodlnBxfzNJ\u002B1VunryZk48=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {
+      "Hash": "hbN//wxqlAefyw3aRWf\u002BkqiecXwsUPuSIeafE2Q3EeE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.Binder.dll": {
+      "Hash": "nFYmIuu2opTNJYTVKJmbV0ooHFHUDolpSm/hGLMeqqA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Diagnostics.dll": {
+      "Hash": "AXTf9mjbIYb0u29If9n0Wh8gGwA2F1QJjq\u002BV9i5RBHM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.Abstractions.dll": {
+      "Hash": "fi2K2pvqj5nAWB1TGwIEQWqQDZEn5je/7aaNGJYt\u002B5g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+      "Hash": "Vb0P2F0ojuhmy/9ooslTcsG8qmiye1DSWxLTDU7oHPw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Pipelines.dll": {
+      "Hash": "IKZqQHVJCR9ZyySmBKd9o4PY6\u002B6vGd7SObxB430Egxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Http.dll": {
+      "Hash": "86PuvzjvYqw\u002B1C2hPw5ATKX227TkyHc4Oyz9dqreQiA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Emit.dll": {
+      "Hash": "mLH8HImlA3RW2Ib3YcxXt7rqbGZD/mnTjjIUa3A9kAE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authorization.Policy.dll": {
+      "Hash": "bVHq3K9xO\u002B7QDWV6tHvXEtgAHyb/UyDPwcioAyZyfQ0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+      "Hash": "pHI23N17hjOsWvcSFahieoT\u002Br2plvmPo\u002BP0/5cKDfNY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Loader.dll": {
+      "Hash": "i9p1Ju4elrKAIySqt9t7d/sNz57q0YwThuM6zfKUn38=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.TraceSource.dll": {
+      "Hash": "9F/HZR/KiQKG4fJ9Uny0AkZS/A7RcCrKft5a9Lm3bj8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.dll": {
+      "Hash": "BpSBd0LxzDZcCVt1J44x9T2FLBu7c5ChqYHx9YYCs4E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.KeyPerFile.dll": {
+      "Hash": "pI32fCWlMiUdi0Hf6sOd52EBbewr9Uu6IZj/P\u002BjZI3c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {
+      "Hash": "eGAjkTu/OrWuCS2rNYLgDcDm5OcxQ/oJKybZkUZc6Ao=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Routing.dll": {
+      "Hash": "C4p\u002BABChW8YuPIm1Wk9kYnLGJErUmE\u002BK3X2w7UvAVmI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.StackTrace.dll": {
+      "Hash": "sXUdZp3qrXCssn2eJxaBHRe9KsUIIE5dJ3QE5Oh246g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Resources.Writer.dll": {
+      "Hash": "P33J9AC1ljo3gZ6Td81ANFvp7mVYJV0czzLYk7cPX7Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.Process.dll": {
+      "Hash": "w3Jc36viXVGmaLoacNyN41ugvYiBmTyKYWpQDpAROa4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Abstractions.dll": {
+      "Hash": "zV4ymqt9pZhcMBx78ntRba9PnOOW/cC\u002BQ7xC58b9E\u002BI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.IIS.dll": {
+      "Hash": "HNFiQNguXrwVpezKE5pE7gJiQ6N70FwKX9Ob7waFj\u002BY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.dll": {
+      "Hash": "NHfaAoIA3U1TDUpfpxP\u002BAyGKSmw04D0wQDlw5c94Yn8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Channels.dll": {
+      "Hash": "cOv5ClGsz6vnACOZEGUX18z8hpkNh3pmjmsTAIOraXU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll": {
+      "Hash": "RT9Qppdup1HGrhAW\u002BNQbQ9NzsgxB\u002BqobqgTo1fJhP74=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Hosting.dll": {
+      "Hash": "Fk0VQ2lArgBzU4D6sDL8Gzwoig0aiCmTGtZ1puij6CA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.Abstractions.dll": {
+      "Hash": "TPY0boJ4PoAfvyLFm2QlALVDA71xurytZaWRqT4TWEI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Web.HttpUtility.dll": {
+      "Hash": "4qOB\u002BFZzPnja/QMxStpQYAOYoY/JjvSK3gD1Jo6s6kc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Private.Xml.Linq.dll": {
+      "Hash": "/k0tZ67QdZsL5DgAhCUgQUAcLmzrzd9WbkFpS\u002BLAOQo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.RazorPages.dll": {
+      "Hash": "H8FzVe/vvg10i6aDpjLEQbBP1bDxt\u002B1ZE2FmywGWgXQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Cng.dll": {
+      "Hash": "fbizVbNObF\u002BlUZovlTji3ScD7gd8zz/NhZ250KxjpY0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.HttpSys.dll": {
+      "Hash": "mUb5aHAG\u002BRlkPUGLjzTXKQH8G5WLh7wtVgOh9xF1nj8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ValueTuple.dll": {
+      "Hash": "b/PPnrVVBE1mHYRhZNKhmNzAHTlpty0BlZXR0AlaoJI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Buffers.dll": {
+      "Hash": "ButBfGRzjz5ZazMUgawgVVf4QoQXeya6lRWydBR5GXc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Win32.Primitives.dll": {
+      "Hash": "fKYGFB\u002BpXbEQsvkfCyZKwi8x/Te4buZWP\u002Bufywlj8Tk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.Linq.dll": {
+      "Hash": "jiuhlAUTVOoQmwb21uw5AOsbhjOnx47ONgrZU54lwYE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libSystem.Native.so": {
+      "Hash": "5rl61w9cNDXbu5ZmXUPjz8rbOPp9J6TR4uF4qSZKr7I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Compression.Brotli.dll": {
+      "Hash": "Y\u002B2Q5Ta6NEKHTFCK09XdjjsEqPbUZ6OY3mhTNxztbZA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libcoreclr.so": {
+      "Hash": "dYAXUZyj4WrHupjFZXC32lBzDpg7xIxx/NGCI03J2Tw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.IISIntegration.dll": {
+      "Hash": "LndIF047FyD2800x3rna2xNU6bLoguDkPgmLXSuFPMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Data.Common.dll": {
+      "Hash": "nm06Ge4OC\u002BEfwf/7LLJ\u002BcfkATjjIZpJQsdq8CUUCRX8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.dll": {
+      "Hash": "6JTU40u83zegnSPjTCqJp00SnCiD5FtYuG0WPimf8/c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.Configuration.dll": {
+      "Hash": "nUUXqJL5Nm3DQOqDXKLA9wWNF7mwNOWf0zVn3Hz7z98=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.RateLimiting.dll": {
+      "Hash": "f8tyUVEstmxkB9LpT01J3NeASp7c9ZOwQCPJn2Xq990=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.BearerToken.dll": {
+      "Hash": "QaOSgP6BFCfPqvGCuGEQhqDIpTVrW/vzPfA6hZhMXJQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.Core.dll": {
+      "Hash": "cYgL2EpfeSjOYJoRuBowb7Q8zOXMmzQPk\u002B8ro5Sn5\u002BY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Handles.dll": {
+      "Hash": "TFjmFYRw9GLJPKf1/oTBVEn7RHy3mSiIlFRH4sSB2M4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.CompilerServices.Unsafe.dll": {
+      "Hash": "IoTcpJDU3Yb1VNLk0Aczx91iS2zhH1WKRUJJjuz5kWs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen.runtimeconfig.json": {
+      "Hash": "SugJoTpZOxet0EOXzMcsirsESj/S/NVMwurjH6rJITw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Numerics.dll": {
+      "Hash": "\u002BnaOSY0gr3oxXpfCL3HBX8pG1cdqCuJp3lEToy6wM0Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Data.DataSetExtensions.dll": {
+      "Hash": "DOLEl8sa2YZbZy/sEoY2p23V3o67s7zdowFWNzuqxng=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libhostpolicy.so": {
+      "Hash": "0wC\u002BedU\u002Bcm1OF1liMPi1rGSk4mY34sAdbJpK0fLg1PA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Console.dll": {
+      "Hash": "gXt8U8cgjHX34abuKT91DoB0PY\u002BazkB528jqcpGMjjs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.Compression.dll": {
+      "Hash": "mssDOwfOAOegdoDfV/VFSCnrGnqWyvwqVbPWBY/aT0c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Identity.Stores.dll": {
+      "Hash": "9UbXkqQJjJ7a0kTF\u002B6iQ67Tvui6s1eaYuVdTXu0eZ1w=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Data.dll": {
+      "Hash": "vFnR3XcFAkcvnUqlWGIjScbqg3PCgTk0kYaweAZtBwc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll": {
+      "Hash": "MIkdDYg3dfiAhAHMQa\u002BL3sVKqkNUHxxEtAuBsJrBsMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Localization.Routing.dll": {
+      "Hash": "gjU0TpSlU4bvfoiw\u002BmXHq8Rh1hEtm5ZTcr\u002Bgjn/a5MU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.ResponseCompression.dll": {
+      "Hash": "\u002BTPuIzdRx46D85/C/yZ291jlWhd8FapIMFBSMMrG/h4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authorization.dll": {
+      "Hash": "tWRWYNDuEyG5vzv5O6vZqQBbsnDYfMms9mhTXiZK\u002B2c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.Encoding.dll": {
+      "Hash": "xqGu1jLC09kzsByxLVdWnvfhsEyNE4biKNbAxDZX0JA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Serialization.Primitives.dll": {
+      "Hash": "QI2wFNGT3pcsIkklpBjMiG4A818GuwVRDC0WalGIVvI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.EventBasedAsync.dll": {
+      "Hash": "bS7uCZXJi9GZsotHMl/HlMw/j\u002BZR8NbsRzeJCxIEnHg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.HttpsPolicy.dll": {
+      "Hash": "9tahKIHl85y3Xu/QKkENe/cx5IgXxE2uMOtlqgK7yNs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/netstandard.dll": {
+      "Hash": "timhX\u002B9/HrOTjgkC7ooFwVOKPbZa6MZf8V7fRZcSwBg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ServiceModel.Web.dll": {
+      "Hash": "vr0e87VP\u002BLvddcuIQZB5t\u002B0iqjnSu/wpKSiLh1qbtpU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Razor.Runtime.dll": {
+      "Hash": "I1jpAggNRD\u002BTfxQR0lRnCBYXr\u002BOSkVyPTtmEL8HbxFc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Core.dll": {
+      "Hash": "sQ8k0Nl0GEgqfFoUlJMYa3JGwGyrV7iTchzClnDph0I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.DependencyInjection.dll": {
+      "Hash": "UOH4\u002B/lS4ny6\u002BdG/p8FpJhgcl687sOlAVJsqyJZEvdM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Security.dll": {
+      "Hash": "pUawvM028v5GKm2ZwOBAW1vvs7sHq1evGqEn/PHtvBk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ServiceProcess.dll": {
+      "Hash": "iOP/zghPx8eBo/lBGqKwWTXyBXnq2D77VK730U7cwMk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/mscorlib.dll": {
+      "Hash": "h2RnUWmXVRyDgR62hH9WYu7Jl7sk30O7oc8kmfSrB5I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.dll": {
+      "Hash": "F2C9e1jvr3UeJJ30rzg4rYQSSboBQ2s\u002B82OYU\u002BC4vSk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/createdump": {
+      "Hash": "hpy\u002BNWlYissNQDbMDc6HZxHeK4wbuD3rvuxGIKfNUgI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Requests.dll": {
+      "Hash": "gs/VAZOeSPY0crYtz4Z14\u002BHHDp5\u002BTvDxuefjYg4EJ70=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Ping.dll": {
+      "Hash": "L6VlPReY9hF71JGLqpMbSwerrya38lprVDCR5C85MdQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.dll": {
+      "Hash": "zNnGrTnAZQRBIqKxMSTsV9hV2u33EpQ5WBfnP/eNJew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {
+      "Hash": "FpqYlclJaryrM9SSwx9bWkLQN48jvnqmXCgNokmFeO0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.XDocument.dll": {
+      "Hash": "Eq17sSNUon6c4aDAk6uYNVbRxw4B1OQd\u002BrGyjhqgDN0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.dll": {
+      "Hash": "4J/IphKfpTEB2Y3Wpgy\u002BQc3/J1ZNouUo5YyBIy97OUE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.dll": {
+      "Hash": "gfC39PfA6OMme9iR65Qg0DITl2AhjyYY3DZR1uIIuro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libSystem.Net.Security.Native.so": {
+      "Hash": "y\u002BAEeWidl5Z\u002BpeYGVioux15Ye\u002B6031w9au1XTbEWmM8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.UserSecrets.dll": {
+      "Hash": "GZkF1DLonuOslvOVi53G/0yR3LP8f90bM0jhzdVhqyk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Localization.dll": {
+      "Hash": "hLN4rFUTH/Yc/4Sx3IYTP\u002B1nHmLntsBdX8nUSoNcnT4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.Debug.dll": {
+      "Hash": "WkMbGqjtoMYs4gAfrgdbFWOeyYVVE7EdBvAkL77eLFo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libmscordbi.so": {
+      "Hash": "un\u002BHPk6Px\u002BJnDQUhzo1orzAxy017\u002Bgh6f0NieLqwlvo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Logging.EventSource.dll": {
+      "Hash": "50c/ate/410HEyo6pQu5K7TC9KVPlPPVZ8CDPH7/kM4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Diagnostics.Abstractions.dll": {
+      "Hash": "ZU1e5PpD6GPX\u002BmWi0U2HAKqWfxkQCuu5C3oE/9cW8Oc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.FileProviders.Composite.dll": {
+      "Hash": "yNjgbou2uN5ICFYmoJ\u002Bx51fySnpwuk7iJ25QwsQhDnM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.FileVersionInfo.dll": {
+      "Hash": "gtIHQjHVkfFTC3UuZGjCwPD/2vHI\u002BpPbeKN2\u002B73phiU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.Annotations.dll": {
+      "Hash": "7HQ1Ap/ZKuadU1oN1fooSs9W41cwNy/\u002B5fmFetLq224=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Globalization.dll": {
+      "Hash": "iZCg\u002BNojuEAFNHMD4BbPNzfjelmU060xfT4QHJMqGFQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Features.dll": {
+      "Hash": "PPIUVNqnvjNPZyWB\u002Bh/iV6nbejf2VyE9b1FyuW4/nuY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.Encodings.Web.dll": {
+      "Hash": "ZcjeY13fzOIsbZGXk0ynCFdfMbHq4Up5dlt0ZIgFZRk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Private.CoreLib.dll": {
+      "Hash": "fJB3uaH8cxziSnFZjAcqicdxJIXMa1FfvGBbLyeHq\u002Bs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libSystem.Globalization.Native.so": {
+      "Hash": "BHlHKLL2FU7XJ2ACVzdQpZ74rm60XgEncwskmUiZMdo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.WebSockets.dll": {
+      "Hash": "QED9HuLpm94M\u002BBpce0TphxJ1v7fGBjwcP0U\u002BRTeoRao=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.NameResolution.dll": {
+      "Hash": "zbkf2/jeHCy/52800mcI53zAsZPwyZU6IkAcCsdJz8Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Sockets.dll": {
+      "Hash": "F1mxt3bX5LXjbmiOyFih/Ac3AT4WmCyvXrwHeEv/UWQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen": {
+      "Hash": "ZVvgBdQ3GmgX312PGzHEIv/cUlVXjm2jtlnH0X9ZDy4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.EventLog.dll": {
+      "Hash": "grRmAiQR5Q8KJXV34Z1eu\u002BrL39\u002BGX2f9eUpMyKkR\u002BWo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Claims.dll": {
+      "Hash": "ywjT4EPUvP3FuqO56t3iMoJGo43mW8TBXOH5b8hLzkg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Win32.Registry.dll": {
+      "Hash": "uzvrQaWWkVEqo1sVX/a6YbHHneP8k80GqIncM2B7mEA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Features.dll": {
+      "Hash": "x1VQj6Q77tKErY6cXqPCZU4TA8xGq0ZyRSVBMwXm8U0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.InteropServices.JavaScript.dll": {
+      "Hash": "gb4VSvIdmBQvN75HZuleKyKq7qnlTfUslT3ABE2gUNI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Hosting.dll": {
+      "Hash": "28Scy2c0GbQEWy\u002Bi55VxYR\u002BmtJnP5T0mHjRzDFo5Fuw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Metadata.dll": {
+      "Hash": "B30QZ\u002BrboXIFXdHDXkx0OLokz/yIolYGrHGp15nTUk0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libmscordaccore.so": {
+      "Hash": "MgrX7a0KuByfINZsE2DXlhMi2ipQXhz2y5I87UTn4yU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.Xml.dll": {
+      "Hash": "0vdpJ/8P9908r4M5XhkaSti14rdjGR9acPnsVNGVKQg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Thread.dll": {
+      "Hash": "WmMc2J43VzXeX5HEbvaxlYjbXkgNlI5Vhcax0IDYIeo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.SignalR.dll": {
+      "Hash": "wSY2gl0SLKqaDjAXCAR8x59ULpXDl4ABiq3Cbv5YlBw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.ReaderWriter.dll": {
+      "Hash": "cNBZ5l12SLRL3oWGc9wTl4ucP/8Jy\u002BZ8PPp094JNxCc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.Forms.dll": {
+      "Hash": "3xchUCujvhJ1HIMRv3UnDyEhpupkYG9nQhQKKb1fAlA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Memory.dll": {
+      "Hash": "6BHj0QFqo/CYR5/bnWrQVQQeZ00rWQLP10ToAFIaXyM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Localization.dll": {
+      "Hash": "3vzvahcpBokeDdvD114lCRKddmsVkKjmlSwuMCb5dHw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.NetworkInformation.dll": {
+      "Hash": "sPYWTj5lirHAXEomEhTjtkF8wX8NPR1Ybrhent773Gs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Xml.dll": {
+      "Hash": "e9gytMKuFANaXEpme/CqXbvl\u002BCY3/t9M02BewjnHqr4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Tasks.Dataflow.dll": {
+      "Hash": "IYi9tZwZpP6aXgfPCLHDvE1AgTygWJCyUoGTParFFu4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Tasks.Parallel.dll": {
+      "Hash": "8KT0FgO3fdmSKx10gD0LE3m1g6t38/TT6Ei7QokhM4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.RequestDecompression.dll": {
+      "Hash": "QhsjQPUzwqGet1wTOaNtjcDDQwNRpMLno6JrqNNpaLo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.InteropServices.dll": {
+      "Hash": "jIaC7oi6v4g8C3rBTgHQGRJf1w1BYem3uLV8Nj9Er80=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen.pdb": {
+      "Hash": "6yH\u002BjMbb4AkZd4NjcVWpFbUc0prmrzcYkUVuVjbbIJk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Extensions.dll": {
+      "Hash": "p7efvCrmdcvOzJ01bgvbIqAYtxqW01KENYnvhxWKMW8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Components.Authorization.dll": {
+      "Hash": "VbL/Ztja30lS9O6YpiCe8RNwyVMFMf9i09mcr9yMvzU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.UnmanagedMemoryStream.dll": {
+      "Hash": "rnFu0ZJMsVIBqXk1dUhBxRcL1aOqTKllijzSKwPUSsA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Http.Json.dll": {
+      "Hash": "gU\u002B\u002Bb/3WNRCyUUrD82W5Qe68nSrxUn\u002BSBWz1lkV3Kxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Serialization.Formatters.dll": {
+      "Hash": "c\u002BUvTwcOpMQGg\u002BDQkIV4GJjEovyCeJTAUHpsauxpXlw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Primitives.dll": {
+      "Hash": "EfHiWhMi1rdr5FT1dWOkYV4nd5aiAOgV2kAAMxR7y5k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.FileSystem.Primitives.dll": {
+      "Hash": "eC3oJtuM00NQOkD3EWtkVQy\u002B3HJrCxSP04TQmoluPEM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Connections.Common.dll": {
+      "Hash": "bwGd3jzvfH3zKugmhcqamSxLRihbvCg7r9P5SHBVG5k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
+      "Hash": "TYdhH5wDbCsnZxaz8jWp86iTlzdi2gyV9OtJ6yXf3\u002Bs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/detekcezmen.staticwebassets.runtime.json": {
+      "Hash": "9Zy0F03JSWGm84M8/7E7RKlCz/w2fn5I3aJxbjW8w18=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.FileSystem.dll": {
+      "Hash": "i1L\u002BKH3wpTjHurk3DmtpNuVph8Eb\u002BvzDN48zbci/zlw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libcoreclrtraceptprovider.so": {
+      "Hash": "DDJMSinVU31o8GZ6ipRlLtjsxQvh7OFg2luSejGsiJU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Configuration.CommandLine.dll": {
+      "Hash": "pF6jGeu2D1sZhyjJ51P/icwgjLa1Ky2lkrhR4CCikCY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.FileSystem.Watcher.dll": {
+      "Hash": "wq3qIW4AyqTmNdaYyjBd\u002BfUfB05GOpqWYsT08S9N0SY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.Encoding.CodePages.dll": {
+      "Hash": "iYcmCDdAIyK/FJiBtV25pCMCHN/5gCj8hvV1TDb\u002B6z4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.dll": {
+      "Hash": "2ZTsYwV78CHU/YBTQFK3jxr59C9bmQUmCcQNUHZdidE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.AccessControl.dll": {
+      "Hash": "ZD6XGBxr0yJU6\u002Bw719etlLlcjwgBJfXOaEGRKkvzTs4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Emit.ILGeneration.dll": {
+      "Hash": "u\u002BXfkClkmrRpbTW55CA\u002BALkECkPKuwLtd5Ud2ZVpExc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.WebUtilities.dll": {
+      "Hash": "KzuMXsQ6Y2sjxrDS78u3IwVl9LgEd7M0A8LrzTCZ5qc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.DataProtection.dll": {
+      "Hash": "mGLp\u002ByQ6hCfEQLgRt0HECAcd9G2/ym0TA1y0WI9Gj9g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll": {
+      "Hash": "EBeYXD4ulp8BvNgfzalwALpB8e8leK2WfuElrDHcyvE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.JSInterop.dll": {
+      "Hash": "HTZjiGE98G04yBbED1x15keKoHqIEbRFix/gWLaObYo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Primitives.dll": {
+      "Hash": "TJOAmIspcewXs3Q7oUe3ajWarKIMbMQLM6v/9zJaD\u002BM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Xml.XmlSerializer.dll": {
+      "Hash": "k4pYSPLqLsyVuUQbzYFvUr5GCpeU7RvqQ620j2MvuOU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Core.dll": {
+      "Hash": "0MtCBYWEv21Mpu9M64x817S0QQre6uXOamdxECD/htU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/libSystem.Security.Cryptography.Native.OpenSsl.so": {
+      "Hash": "U3moaXZ7r6OOAuCgt5fWYWnWAPpqtQK9PF\u002BgbtC9c5E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Serialization.dll": {
+      "Hash": "97QXgiR9fZtHGkK5jI6JGEV2/w5NiF7cQoiD4iS5Kig=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+      "Hash": "E8lEOKsf0B1/7445t4OlDl1m/lHD1NAnEM0zbHN2lVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Text.Encoding.Extensions.dll": {
+      "Hash": "M3c39ThZXclFER0UyIu\u002B9KvDd5wIwo08etzVFnVDXks=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Net.Http.Headers.dll": {
+      "Hash": "R6LaUpLh54jiqfRriqLPl70pGUBchSE\u002BBp92JV3FneI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Threading.Timer.dll": {
+      "Hash": "0ZGRsPc3Ppvs6BOe3IdU\u002BrkxItya9TLOoOfwWUQr808=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.CSharp.dll": {
+      "Hash": "b4akMoB3zR7DQdcFTUt6ML/igOjODHVLF4OBYV/uBxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Options.dll": {
+      "Hash": "\u002BgJbUvnHGbjSppM0g40LXpRmuQBRdVmLAwlZ9HSqUls=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.ComponentModel.Primitives.dll": {
+      "Hash": "4D2gcN588Gmhn1IwoAdl3qV5wF/aWMoKaFHSTWUpKiU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Razor.dll": {
+      "Hash": "RZKJCcOg8pL4m3jKhvEwkBoxTMLHWAEgjLeAzLYyj2k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.OpenSsl.dll": {
+      "Hash": "x6DTiU3wVZU6nlevTh6q0gBNRhtrXm3DkJLZZiTMDh0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Collections.Concurrent.dll": {
+      "Hash": "zJEluioGw4NYh29AMedrPvajZVPiCyabxs3LlRFJwjM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Configuration.dll": {
+      "Hash": "SIjlXSjXvzTOQ8Kte4\u002BdR3vHhhJ6XkhA2fnsAZPaQi8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.HttpListener.dll": {
+      "Hash": "KK9ndKvVPzF\u002B9KXSr7Jo5\u002BIsh9jUhqcYa12yZBck0Og=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.Primitives.dll": {
+      "Hash": "xTosOSf4H9WTUg9pdHeKJvCsnHvdsOU\u002Bh9woWyuATD0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.dll": {
+      "Hash": "amNWVXnuoJnwsPScGgQvqhcoowNdsME7G\u002BXvKTLCGYo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
+      "Hash": "OqcLiuezZPjQj9NWNR5y8feXAUQklWhU/LnG7LqRWl8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Linq.Expressions.dll": {
+      "Hash": "McSz88xID7jqjUlKk6o5uUineTuoON360oYkctT6ia8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Private.Xml.dll": {
+      "Hash": "oKEfLdraZ2eXQICapq/jKQlczsf\u002BFo2lkU9uXeBsf3Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Numerics.dll": {
+      "Hash": "AqO3snz5pSxsYfY0wSTJS1SatKCHG\u002BqgNIy1Ay7HwH0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Principal.Windows.dll": {
+      "Hash": "qRMatdvFNu\u002BMrjJtwnN/wad9h3KUKSHJIwluvayKxT4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Diagnostics.Tracing.dll": {
+      "Hash": "LdP9ifR0xPL9Cj6uDA7XpUw10J9s4OEf31f8ADxFbKk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.Intrinsics.dll": {
+      "Hash": "UXEyxkIH8l4DczjAc3oJb79ltYGoLcjmM5o/vCvaq8I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+      "Hash": "Y3LOd6Edw6o6DNbSjuUdIfG69IPjV/9En5H5lSKUMXY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.WebSockets.dll": {
+      "Hash": "6c1LRLf0jJVu9opF0U4Q6/0aSc5azwvDyi\u002BkeUfmbzk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Reflection.TypeExtensions.dll": {
+      "Hash": "gfWa\u002BQwMdfbE59\u002BJlnKxbD\u002BWSG40WKWnT3yAAiDOrow=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.DataProtection.Extensions.dll": {
+      "Hash": "RUL/7JVn6bdzHWOvvL5yYfok4h6kfha9h1xHfz83fbw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.IO.FileSystem.AccessControl.dll": {
+      "Hash": "B7TJWbKUxqAAGlhRN72JHBb0rQScBPolA\u002B/oIwITPSI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.AspNetCore.Http.Extensions.dll": {
+      "Hash": "IcQmweNpj5Za2ERdxscLR3yru2cY2\u002B/tjJd54\u002BV/Cxo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Transactions.dll": {
+      "Hash": "Q2npuuuQQJiOv/D77qIVLMejlm1lHTMYOoH9RsxBGcY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Runtime.InteropServices.RuntimeInformation.dll": {
+      "Hash": "o2XrZ3J0TQ8W292Q188rQ1cZNJfqi61TZke12D8JU8g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Transactions.Local.dll": {
+      "Hash": "jCt4D86gFaFXbhEdRD/mrH8fi5Qc6FB\u002BOKG1KDmvn2Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Net.Http.dll": {
+      "Hash": "KYbg5JDP3aHUdE7vGCT\u002BdgCWhO3CZwZVE4l1NNuPrmU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/System.Security.Cryptography.Csp.dll": {
+      "Hash": "IrNTj01q8xFPfNWOJBZDefE6JMhVgqB0xHFyfFKk3YY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/Microsoft.Extensions.Caching.Memory.dll": {
+      "Hash": "060zGGZtUOogMzUXV/pwp6w2vRSj5QTJodeIPlUwoC4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.Json.dll": {
+      "Hash": "QBJixDb71GVdHMLUakYJyz4n/Hp\u002Bl3k88XQadLTNBkU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Numerics.Vectors.dll": {
+      "Hash": "AIXH9Bu0oQGbuCnzscIgj9oDiLBv\u002BpF16v4ObHZR1aM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.VisualBasic.dll": {
+      "Hash": "O/IJCnJK9sD6F5/IphmODFedTwj0ef/A9PEa6QWxCu0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.VisualBasic.Core.dll": {
+      "Hash": "rRXo\u002B\u002BjI\u002BaH\u002BI6pNnd74M0Z/fahoyu6YSUbxkJnSD1c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.XPath.XDocument.dll": {
+      "Hash": "OnYhGF6BLQSL2ReXgwFBo1Vza\u002Ber97RgI5TS7946QgI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Core.dll": {
+      "Hash": "QSc0BgGtRgU75KiIviEIAMe0Fz0WgJhkxtoIunbE660=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.dll": {
+      "Hash": "JUyN37ENXFCtKNg4rcgBtbTEg0Q9fjmM254gbHaRg6g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.IsolatedStorage.dll": {
+      "Hash": "\u002BHo3NImwXq0EBglJPsMGacsLxCnJH\u002BeZOD\u002B\u002BvWaDtpQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Collections.dll": {
+      "Hash": "Xg75\u002BwCarBseDiYAkLvrFMZGbHaVoHx4eTn93mcWMbw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Dynamic.Runtime.dll": {
+      "Hash": "uTgtTANGclIJpPhuoibT7GEJs2fTvOmMe4R0Gt6Ik2o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.dll": {
+      "Hash": "GPECgyMYKcqi5Mzwy79bHDijO1vcWs7gh\u002BwHsn9eVGU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Linq.Parallel.dll": {
+      "Hash": "zCIrmjtEs7dSj5yHct4xjlDiq4PJAXZl5MYDEqsYsb0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libclrgc.so": {
+      "Hash": "cQAS/UXPyfQicPHj6fbg0j3HYzhMpUKFvayJ8JqCpkU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Identity.dll": {
+      "Hash": "X5cIQ3ZYG70xsK9Gd\u002BUJe5s8OCK4OI0yHMvleKP\u002BGsM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Connections.Abstractions.dll": {
+      "Hash": "A0/sfX4FIrEyczfV\u002BWYGmDaqBBpUk4EQnWMN/DEDrp0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Routing.Abstractions.dll": {
+      "Hash": "Z31fg1LmsgOOA7r8hySNpCCX2I4FevD02m7qq\u002BJrEBQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Collections.Specialized.dll": {
+      "Hash": "cgMrBzwh9iPlN8u/4NJGqfOckLkKpo2d\u002BGmJdLCF09s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.dll": {
+      "Hash": "SLDaOg1rXshRyvSMA9ryQNjAFHrh1oKiNSj9eq2i838=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Hosting.Abstractions.dll": {
+      "Hash": "IUaHms9Ns\u002BNA7Gw8kWVN0nPkRndCIMnNZV6d1NG0vns=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/appsettings.json": {
+      "Hash": "IAMytDR1egBUo9NWyRzeAfLEhxK\u002BiqK8sPPpc2GfBuM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {
+      "Hash": "YrwotZwwlYlRKjx/lkOqh9b3LpJ9JEAHDeF0nkfRdVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.TraceSource.dll": {
+      "Hash": "KQTIOyYVU27ukGf975iOfymmwQmB6iHr29k9GbHmG1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Collections.NonGeneric.dll": {
+      "Hash": "IXZpQay1jsrGuMMCbA7/BhcUXZlGyeudo9ZTHC1y9gA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Serialization.Json.dll": {
+      "Hash": "s/D/bvxxKGBoEKhhFg9kZzQuZZKaTjM0H8P\u002B/O022V4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.HostFiltering.dll": {
+      "Hash": "qNn8QdWIGhUpi2Z4XbhkkTadMb/Mi/I4dReZx8bbhzU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.RegularExpressions.dll": {
+      "Hash": "bt2Yya\u002BnDhHtqfyqcjb65nYz211FspRQlrijZ8BzOO4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Tasks.Extensions.dll": {
+      "Hash": "jx9lv8pnhcupnT1TuQZB/82NQJuxIdLpkmua6\u002BiurwQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Localization.dll": {
+      "Hash": "0vU7AxA8v7qlR5VztslT9DAy1GoK5/GE/97bu7BRkFM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/detekcezmen.deps.json": {
+      "Hash": "ELRbmoXw1ip9OTVGkwsMe9xXCaE7nfOvzsYgBqDgUs8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Drawing.dll": {
+      "Hash": "l0O0JQ1o4144vwrssGd4e1rOCxY6R5jNcz\u002Bybdiky0E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.WebHeaderCollection.dll": {
+      "Hash": "psk47a4h1KlnboyB4HXIwiCc/qz82XckxcyRuk7UMts=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Abstractions.dll": {
+      "Hash": "Hlg5dkwj6ovNAuD2OhxJS8Y\u002ByOcPFF7amUAWIceqIBA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Compression.FileSystem.dll": {
+      "Hash": "y2QfrN0masyEGxQncqIzDZEBXou3d02T7lsPGwEffjc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Globalization.Calendars.dll": {
+      "Hash": "5XbclZNmC4KVFckSIjCdbGz5\u002Bc6MHF2D8RyJvbghF7o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Encoding.dll": {
+      "Hash": "KVT6cH2Aa8mFnxtdzryMguppzICfIOkO7x93t9MWW3I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll": {
+      "Hash": "em9Rr994XOEJkExzjwr/x/LzRrvIDSHz2K6uYZea6\u002BU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Private.DataContractSerialization.dll": {
+      "Hash": "A3DowKeaagbpVR6BA\u002B7AwOpn0Xb3KPIgLaAU0oGYEJs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.RateLimiting.dll": {
+      "Hash": "eXCv7tc63aiJ637tXe13y\u002Bpueu\u002BgX5tr03kXXWSiJM8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.dll": {
+      "Hash": "0g0P72DhrLu2gOIqg6R5MnyjafZbMEolmencj8cK0DI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.AppContext.dll": {
+      "Hash": "VLS4cF\u002BjbbaDdD5dXS/cvbaNcunfO3g81kfL94l3fg4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Formats.Asn1.dll": {
+      "Hash": "CzJ7U02eQN7LKbrzgKu8b/W0Zz5TGhTIUq8tx9\u002BvBXg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Windows.dll": {
+      "Hash": "y0iR0p3gKwx8JEJ6jytZLAxw0Wk94OzFxh4nGdh1Q90=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.XmlDocument.dll": {
+      "Hash": "iRKf3YHAWLoL7cwDKRZOm5YBJ/5bAyI4VbSn2gwURCQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Identity.Core.dll": {
+      "Hash": "fetAbi8G0\u002BFwHBnTGnkTefu2fntjsf8xqLgA0/OWfCY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Mail.dll": {
+      "Hash": "KQptVZOrMH19dx/\u002BpyI4uDTazeq\u002B3qs0l3sdfFiMXjM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Cors.dll": {
+      "Hash": "W2L96HEVhdobfHIcUJ9tXAjPTznJhuzRlXSa0EYKlkw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCaching.dll": {
+      "Hash": "uqQyvnKXtJdnrpsVAdRly6Z0gSxfWl6tC/6szOlrBIk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Resources.Reader.dll": {
+      "Hash": "1Frfqfq84x/mSA4i6Je2wA2XXPLuDb6Bv3awakq0Xtk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Overlapped.dll": {
+      "Hash": "UZhjP/biizBMNXUOvgXmuylIHOOQJSHUoisRs\u002BhAU6o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Tasks.dll": {
+      "Hash": "7UMzQ/fxAfcRsI/oHXRTazacHj5LNev7OCLXyyWYqrU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Localization.Abstractions.dll": {
+      "Hash": "Lsp7AQIqpMmKTwl2QZjEtahfV6q2NgfUgcgC0xDlP9A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Principal.dll": {
+      "Hash": "e0LIZY8e5x3ckOUV99ZxHPGTomcjK6gY15wzAbDdixU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Cookies.dll": {
+      "Hash": "/dxMlV4Ci28NKlTmL1Zclp23C/DWe\u002Bv7dwsjfMK4XFE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Embedded.dll": {
+      "Hash": "w/Qb8lrs\u002BQvhn/3HkInc9lD5V3xIEOixyfF6rgHxfiw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.HttpLogging.dll": {
+      "Hash": "drFgnoPnzhOYnCDqyN093eUQSu/hyUn2YMKW5EC/LUY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Antiforgery.dll": {
+      "Hash": "X\u002BWe0aLXp76fEcv/m8q6MCUoy5av0XJ3JQsY5/4r3Pw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.Tools.dll": {
+      "Hash": "1K5uEJI9\u002BL5aqWa8KeFKBHLwn3WLq0ChGV9BtESxxcY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Drawing.Primitives.dll": {
+      "Hash": "OvapTDmS6HZcLz8eNPTW\u002BFFWzgYQq0XX\u002BpeY0I7D1ro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Options.ConfigurationExtensions.dll": {
+      "Hash": "a2dMnPnRIoxPNl77GmKoFWQ2wwHPSM/aMlzO8xNkBDg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.dll": {
+      "Hash": "wS7/mLnOnF43jMfDkjNEVBqpAkVyyrYmioXw7JYewFw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/WindowsBase.dll": {
+      "Hash": "68t62BPwKdL7DdD5jPqXz9q\u002Bx2w\u002BVMgHHOmctlky0fw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.SecureString.dll": {
+      "Hash": "70JZeiZ1jAPMvpTCSExnkYSrAFsmip/xSyoIsTqt2ZI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.OutputCaching.dll": {
+      "Hash": "KtzwNRCFyBWrnhoTYUSN2TyQd4SAUdoYHBM8XFbL8Jg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.WebClient.dll": {
+      "Hash": "2DzTSgEzWKIHak0dLDcS/1he4u/Uka9U4Fa/p4D5o\u002BQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll": {
+      "Hash": "nep4NRY0ZId6ZwtLbxBPBWR4S\u002Byvlrg1wBi/nL9vOtk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.WebEncoders.dll": {
+      "Hash": "pwrtDt4Jiz/RmZ9VYVxbAdi4caC1cM9Z29jnKrqE/PE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.Json.dll": {
+      "Hash": "pLVJuEpN/fSIiRK1WYYuVYvGGAxYcI2PlF065VMopg0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {
+      "Hash": "IqM4I6CSj0ZMSTLnq8G\u002BbB5aIsdnCuV0SmEF\u002B26T6aQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Formats.Tar.dll": {
+      "Hash": "8iDzXWOuklB50FSloAkIUwxOWrpmfH0s/zBunmt89AE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Results.dll": {
+      "Hash": "E\u002BQinZHYFSctDkw5fZA917l2dvQtSZ3v440Sy\u002BkypLM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.DispatchProxy.dll": {
+      "Hash": "LASfLPK\u002BRqD14IP3c/DSBo6xVGkZX9tBp/NhLgsih1I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.CompilerServices.VisualC.dll": {
+      "Hash": "C3M74fDpJQL1zD9cx3XZ/6V/L0e9sdY1QOqY6/AzBBk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.EventLog.dll": {
+      "Hash": "XeCLI\u002Ba3uC9D5uOVMaCFkcS1HtvqU/P1Mduy\u002BCQBOqM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.Server.dll": {
+      "Hash": "JJvG6CpSYb4qvaYZyp1ZXTNy9onl4quEaQB5a9y798k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libclrjit.so": {
+      "Hash": "9KvaF3Xz/ltk/7Im8oVQO1NHyn\u002B\u002BS9K7VjXx6zLl4u4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Caching.Abstractions.dll": {
+      "Hash": "Sx6DwGRhAl0vYZeDdhIaDLlQl6HY8EqTGj3JQhYR7g4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.HttpOverrides.dll": {
+      "Hash": "UFYTRXXJPuwen1eQBh/iVfNCiCQycY1h7PYTeDBIkZw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Pipes.dll": {
+      "Hash": "SYpRz1BrqHiYsrluORFnjfiYe5TUp8jp6flGeep8d4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.FileSystemGlobbing.dll": {
+      "Hash": "P\u002BGgTaMNRu\u002BIQyclJTjiTO8C2ensu0AQWB\u002Bv9Dy6P2I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Connections.dll": {
+      "Hash": "8XuWz\u002BZMW7ABhhvM8zMfdud3m3ioBNjekP8JIyvnAIY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Extensions.dll": {
+      "Hash": "zPGPcMTPAcNtyJom9xrOJ566RvwwxqnM5smLj9JyprM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json": {
+      "Hash": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll": {
+      "Hash": "wgiYeTMK/Ii5sJ92tJSl3Za9jmQ8QZWgP5PybpszhMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.Web.dll": {
+      "Hash": "nm44omvoE8FzzTCo9ruU8cHFzRcNa61KlMVgBzKVZ0Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.StaticFiles.dll": {
+      "Hash": "MYVS7udfL/AuAylona0cEbarWy37RsxlwY99qrvH1Wc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.dll": {
+      "Hash": "hDXu4D3nO2WTkNnEXqQrmjzQvrMIdEoYeswM9OaXAjk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.Serialization.dll": {
+      "Hash": "JHAO/dZo2fsocbAr3VzcBGCz5wlqtdThuBR8CmlW0VU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Globalization.Extensions.dll": {
+      "Hash": "Aq6ORGciODMhS3VwTHYrXOvp6QBT6Yve9G4VOm6p6z4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {
+      "Hash": "WDBtyrZbQi6IK/Z8aqpSBEwkSrtSGGHJeBW\u002Bq3VmJJU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.MemoryMappedFiles.dll": {
+      "Hash": "eST2ZyxMGGOdriVp7FALWrl4SXNwGpTgpsqhexiBZiE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Compression.ZipFile.dll": {
+      "Hash": "q2iN9NGW1QLE/M59\u002BIA4p33YhvH/nfRZIaVTdETSmo0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.CookiePolicy.dll": {
+      "Hash": "R/zV52jsWTEcjULky3AksyLIXpCRytE1U/HMw\u002BRkhJw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
+      "Hash": "F/CCjChwpf9iGoKVDFAJzvi9i819uFpElU1u4JvjHpQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Options.DataAnnotations.dll": {
+      "Hash": "JohSyNf9C18ME25rZlX2S//4DBWXVEo0tPnX6fc4uss=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.WebProxy.dll": {
+      "Hash": "BP/82pnL4b8Y3IrPIiBIvcRkSTwoQxJ35aP9g9VHH48=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.dll": {
+      "Hash": "N1rGjqHZjs7jZP7I\u002BVCqeGxJatNdJEno5VfjKE1LpXs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Private.Uri.dll": {
+      "Hash": "mi6j6APiBibQQCaj9y3fttcQz51sQiKuem9e5W7eTXE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libhostfxr.so": {
+      "Hash": "vxrxUmiEcwVE0AfnUz266v7U/grL22J1CvvQZuhjO68=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Session.dll": {
+      "Hash": "\u002BsvmnlRIjQiAyPU6yKYh\u002BQeGeC6ksuYW9onZzftrSqQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Serialization.Xml.dll": {
+      "Hash": "x6v73uKYyDD8zi6N9Ffj8ScO09nx8cNLCvAOcianyLQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Common.dll": {
+      "Hash": "yHqNkITM8nPz0SP1kraXjzWt5BSsuHBrifhtGRDAuN4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.ObjectPool.dll": {
+      "Hash": "krlsCOBojc3fISHghNr0nOqtcjPr9lwYAblBM4NcmWo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Resources.ResourceManager.dll": {
+      "Hash": "WzAIDNIo4fpxdAsts2SfPMEyBK3qmdDtTaeAWnQUPqA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.Contracts.dll": {
+      "Hash": "oSnng51AfjtwkT5JofZuNJg5IPj8TMqQVn9U4V3Nf9w=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.Ini.dll": {
+      "Hash": "zW4YLVRT7SHpxsSpv13\u002Boplp7ojnHX\u002BrQ9W3Ugvti1I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Linq.dll": {
+      "Hash": "7VZTLJSzuTiUBk1jCW8g3bdxy\u002B8AOW21iYHSa8CrcOw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ObjectModel.dll": {
+      "Hash": "RgQDtyNh7xwJ5F\u002BXoNdl9ZHKgHq0qymB206fOrf8rpw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Pipes.AccessControl.dll": {
+      "Hash": "QxQ3DSgbmc35a7tnrDWT47X7ilQH/vfs/xNfedomXRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/detekcezmen.dll": {
+      "Hash": "muiDXLVfl7KT/mb0EoJk\u002BbBT15mknMBRPd3n3/6Cs4o=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.dll": {
+      "Hash": "qK/N1tQtfeIIVta7Tb46bGXFlhbD7PpJhhH9d5oRaCU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.Endpoints.dll": {
+      "Hash": "trPlJKIH9NigE0NaTZIBSQL7hkpuSe8/Lm87vOPtPpU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.Debug.dll": {
+      "Hash": "hS1q4\u002BD7gQ5lpeC9CQNpv5YKDdLDqqSjEAaO\u002B52xRaM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.TypeConverter.dll": {
+      "Hash": "fw5Y4fq6oXUgTvkYc8kAfHfML80M72ZQd0tYzmlJjts=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.XPath.dll": {
+      "Hash": "/vhvBXMGA3VK20nUuCRS13uoiTj3ZnO8zVlckhuPoMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Html.Abstractions.dll": {
+      "Hash": "ro5ZFQX8TYqgslsQMN3tLNwZzILJUl8dGK7qrXzW68M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
+      "Hash": "AkcgU1TnO972WCKlozaBDVFmgP3v7huOJSLTP\u002Bf3Ry8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.FileSystem.DriveInfo.dll": {
+      "Hash": "ySU6T5QFMW1MSanVtSvnGp2BRFRR8T057y1rTs8MV80=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.dll": {
+      "Hash": "WvtcsIFCQC9skzNHyBM5wSx5DDuAchvHNc113JCLMYY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Razor.dll": {
+      "Hash": "qCjayhd/YPT3WFRLEg7g3KdA3AbcumD3RnwDd\u002BZMfC0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Core.dll": {
+      "Hash": "tnoKq\u002BbRWpjxy5\u002BvrANP2gSxLTd7hkT1NQsyru\u002BHJ1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Collections.Immutable.dll": {
+      "Hash": "t3JWV\u002BW4vawelrDKmZUFuyR0m4UKShIW/nYOrAs3NwI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+      "Hash": "A1/\u002BNjNR6CwGB9J6o4Ai41EVEkwgImzKJO0OgRwnN/M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Algorithms.dll": {
+      "Hash": "skWVXBu5/eiLI7obdspfoaXWkoq10xnQ9EhNK6HWeVI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.WebSockets.Client.dll": {
+      "Hash": "yQwiv1raxIkzQBm0kTLAvSAL2oLB2MbXzDnYDT3gfYE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Linq.Queryable.dll": {
+      "Hash": "f\u002B58fTVr964WRvP4x5arYmQY6k/qxgvTXSxuL7CUQmQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.dll": {
+      "Hash": "ys4hcTDijl6QCQ0YVFIb8JPEO/7LL91rs4AouNs8X6g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Rewrite.dll": {
+      "Hash": "IfvjDS2/qJ1HseP3fQUbFJeRSeFSszbCm\u002B03SktGgjA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.X509Certificates.dll": {
+      "Hash": "9K8k8pmvC7/1rzHWrZYUdmgwnnrPEqfq3soauPwtOVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.ThreadPool.dll": {
+      "Hash": "rSCaU3ftbdAktjBD4UqROLPw3kEGzdO1lIATxSD0Vno=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.dll": {
+      "Hash": "2GxusTTktwjsMPjbS6pf22gokO/TqjwmLkRLKbmRPSo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Quic.dll": {
+      "Hash": "QfegU5Uiqq/uUQs2bo28uenSLlxRf4BWcetZ1Iyv4Io=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Emit.Lightweight.dll": {
+      "Hash": "DhI5wecyeTxYyEbnbhnK/GrSEL/\u002BoPvtBEhUd9YqLaU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Pkcs.dll": {
+      "Hash": "1ZxLf/DBL/6dwuJfDnXak/UcXOUmDu7bfzPhFrs7G2g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.TextWriterTraceListener.dll": {
+      "Hash": "DWMzChqX\u002BSKUrBu17gah1TVLWKREawZ5ySTu76iD3NI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
+      "Hash": "kb84Z1RnSb0xx3bPmoRTSYV/HgqijeyxGapnHnPLCCk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Physical.dll": {
+      "Hash": "XNmcrrOQHagwCY3EiqR6R/SQxVfyGqLofmsmdYBe84I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Primitives.dll": {
+      "Hash": "whz30V9mP1wd2BFx5jraHpphQFJF/okMU55MRvVC3Iw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {
+      "Hash": "8X3V6BQ\u002BlMq\u002BgHVDpnTKfcGhRLW7zU/Ylp8n3Wwlv3A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Metadata.dll": {
+      "Hash": "JXn3CcLUqKVsXDRDPidfjygn9Vim5jGGfkVPBjZdSig=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+      "Hash": "qazVTAcMWE6a7vwsOw8SaIlEodFCYkvmF3QHrB\u002BaLsk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.DiagnosticSource.dll": {
+      "Hash": "3sEHpMJ\u002BG6X\u002Blc9uX1PiiZRqGsTeLAfUDXJFge7xdQY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.Console.dll": {
+      "Hash": "OOsYa6D4N\u002BVA81nFvwaPjUy8Zf5BiOwEF2PhJpN4EGM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.DataAnnotations.dll": {
+      "Hash": "ssBHPAK2kcVXqpBhIJvv0tMQ1YYHYTQMpysQtIYYQnI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.OAuth.dll": {
+      "Hash": "UYp4pn\u002BQYiAHRii8JZijUWnc4sj6oTHhKHB1CcKdIco=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Cors.dll": {
+      "Hash": "X07L1I2wny7eRZPLpv1Xh\u002B4qzytreijukkrWBQ0yzUc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libSystem.IO.Compression.Native.so": {
+      "Hash": "RVS5nDg4lWeQuFziM873/JwPS8I/cdqKtMBiuHrt1HA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.ServicePoint.dll": {
+      "Hash": "YkJaNXxQny4xRn7RzCHxVEx97UOXNHRe5ckqkx2lEdM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Web.dll": {
+      "Hash": "RTD30Sk70jguN10SadmlnhodlnBxfzNJ\u002B1VunryZk48=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {
+      "Hash": "hbN//wxqlAefyw3aRWf\u002BkqiecXwsUPuSIeafE2Q3EeE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.Binder.dll": {
+      "Hash": "nFYmIuu2opTNJYTVKJmbV0ooHFHUDolpSm/hGLMeqqA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.dll": {
+      "Hash": "AXTf9mjbIYb0u29If9n0Wh8gGwA2F1QJjq\u002BV9i5RBHM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.Abstractions.dll": {
+      "Hash": "fi2K2pvqj5nAWB1TGwIEQWqQDZEn5je/7aaNGJYt\u002B5g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+      "Hash": "Vb0P2F0ojuhmy/9ooslTcsG8qmiye1DSWxLTDU7oHPw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Pipelines.dll": {
+      "Hash": "IKZqQHVJCR9ZyySmBKd9o4PY6\u002B6vGd7SObxB430Egxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Http.dll": {
+      "Hash": "86PuvzjvYqw\u002B1C2hPw5ATKX227TkyHc4Oyz9dqreQiA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Emit.dll": {
+      "Hash": "mLH8HImlA3RW2Ib3YcxXt7rqbGZD/mnTjjIUa3A9kAE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authorization.Policy.dll": {
+      "Hash": "bVHq3K9xO\u002B7QDWV6tHvXEtgAHyb/UyDPwcioAyZyfQ0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+      "Hash": "pHI23N17hjOsWvcSFahieoT\u002Br2plvmPo\u002BP0/5cKDfNY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Loader.dll": {
+      "Hash": "i9p1Ju4elrKAIySqt9t7d/sNz57q0YwThuM6zfKUn38=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.TraceSource.dll": {
+      "Hash": "9F/HZR/KiQKG4fJ9Uny0AkZS/A7RcCrKft5a9Lm3bj8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.dll": {
+      "Hash": "BpSBd0LxzDZcCVt1J44x9T2FLBu7c5ChqYHx9YYCs4E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.KeyPerFile.dll": {
+      "Hash": "pI32fCWlMiUdi0Hf6sOd52EBbewr9Uu6IZj/P\u002BjZI3c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Protocols.Json.dll": {
+      "Hash": "eGAjkTu/OrWuCS2rNYLgDcDm5OcxQ/oJKybZkUZc6Ao=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Routing.dll": {
+      "Hash": "C4p\u002BABChW8YuPIm1Wk9kYnLGJErUmE\u002BK3X2w7UvAVmI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.StackTrace.dll": {
+      "Hash": "sXUdZp3qrXCssn2eJxaBHRe9KsUIIE5dJ3QE5Oh246g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Resources.Writer.dll": {
+      "Hash": "P33J9AC1ljo3gZ6Td81ANFvp7mVYJV0czzLYk7cPX7Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.Process.dll": {
+      "Hash": "w3Jc36viXVGmaLoacNyN41ugvYiBmTyKYWpQDpAROa4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Abstractions.dll": {
+      "Hash": "zV4ymqt9pZhcMBx78ntRba9PnOOW/cC\u002BQ7xC58b9E\u002BI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.IIS.dll": {
+      "Hash": "HNFiQNguXrwVpezKE5pE7gJiQ6N70FwKX9Ob7waFj\u002BY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.HealthChecks.dll": {
+      "Hash": "NHfaAoIA3U1TDUpfpxP\u002BAyGKSmw04D0wQDlw5c94Yn8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Channels.dll": {
+      "Hash": "cOv5ClGsz6vnACOZEGUX18z8hpkNh3pmjmsTAIOraXU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll": {
+      "Hash": "RT9Qppdup1HGrhAW\u002BNQbQ9NzsgxB\u002BqobqgTo1fJhP74=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.dll": {
+      "Hash": "Fk0VQ2lArgBzU4D6sDL8Gzwoig0aiCmTGtZ1puij6CA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.Abstractions.dll": {
+      "Hash": "TPY0boJ4PoAfvyLFm2QlALVDA71xurytZaWRqT4TWEI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Web.HttpUtility.dll": {
+      "Hash": "4qOB\u002BFZzPnja/QMxStpQYAOYoY/JjvSK3gD1Jo6s6kc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Private.Xml.Linq.dll": {
+      "Hash": "/k0tZ67QdZsL5DgAhCUgQUAcLmzrzd9WbkFpS\u002BLAOQo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.RazorPages.dll": {
+      "Hash": "H8FzVe/vvg10i6aDpjLEQbBP1bDxt\u002B1ZE2FmywGWgXQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Cng.dll": {
+      "Hash": "fbizVbNObF\u002BlUZovlTji3ScD7gd8zz/NhZ250KxjpY0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.HttpSys.dll": {
+      "Hash": "mUb5aHAG\u002BRlkPUGLjzTXKQH8G5WLh7wtVgOh9xF1nj8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ValueTuple.dll": {
+      "Hash": "b/PPnrVVBE1mHYRhZNKhmNzAHTlpty0BlZXR0AlaoJI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Buffers.dll": {
+      "Hash": "ButBfGRzjz5ZazMUgawgVVf4QoQXeya6lRWydBR5GXc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Win32.Primitives.dll": {
+      "Hash": "fKYGFB\u002BpXbEQsvkfCyZKwi8x/Te4buZWP\u002Bufywlj8Tk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.Linq.dll": {
+      "Hash": "jiuhlAUTVOoQmwb21uw5AOsbhjOnx47ONgrZU54lwYE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libSystem.Native.so": {
+      "Hash": "5rl61w9cNDXbu5ZmXUPjz8rbOPp9J6TR4uF4qSZKr7I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Compression.Brotli.dll": {
+      "Hash": "Y\u002B2Q5Ta6NEKHTFCK09XdjjsEqPbUZ6OY3mhTNxztbZA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libcoreclr.so": {
+      "Hash": "dYAXUZyj4WrHupjFZXC32lBzDpg7xIxx/NGCI03J2Tw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.IISIntegration.dll": {
+      "Hash": "LndIF047FyD2800x3rna2xNU6bLoguDkPgmLXSuFPMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Data.Common.dll": {
+      "Hash": "nm06Ge4OC\u002BEfwf/7LLJ\u002BcfkATjjIZpJQsdq8CUUCRX8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.dll": {
+      "Hash": "6JTU40u83zegnSPjTCqJp00SnCiD5FtYuG0WPimf8/c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.Configuration.dll": {
+      "Hash": "nUUXqJL5Nm3DQOqDXKLA9wWNF7mwNOWf0zVn3Hz7z98=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.RateLimiting.dll": {
+      "Hash": "f8tyUVEstmxkB9LpT01J3NeASp7c9ZOwQCPJn2Xq990=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.BearerToken.dll": {
+      "Hash": "QaOSgP6BFCfPqvGCuGEQhqDIpTVrW/vzPfA6hZhMXJQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Core.dll": {
+      "Hash": "cYgL2EpfeSjOYJoRuBowb7Q8zOXMmzQPk\u002B8ro5Sn5\u002BY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Handles.dll": {
+      "Hash": "TFjmFYRw9GLJPKf1/oTBVEn7RHy3mSiIlFRH4sSB2M4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.CompilerServices.Unsafe.dll": {
+      "Hash": "IoTcpJDU3Yb1VNLk0Aczx91iS2zhH1WKRUJJjuz5kWs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/detekcezmen.runtimeconfig.json": {
+      "Hash": "SugJoTpZOxet0EOXzMcsirsESj/S/NVMwurjH6rJITw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Numerics.dll": {
+      "Hash": "\u002BnaOSY0gr3oxXpfCL3HBX8pG1cdqCuJp3lEToy6wM0Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Data.DataSetExtensions.dll": {
+      "Hash": "DOLEl8sa2YZbZy/sEoY2p23V3o67s7zdowFWNzuqxng=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libhostpolicy.so": {
+      "Hash": "0wC\u002BedU\u002Bcm1OF1liMPi1rGSk4mY34sAdbJpK0fLg1PA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Console.dll": {
+      "Hash": "gXt8U8cgjHX34abuKT91DoB0PY\u002BazkB528jqcpGMjjs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.Compression.dll": {
+      "Hash": "mssDOwfOAOegdoDfV/VFSCnrGnqWyvwqVbPWBY/aT0c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Identity.Stores.dll": {
+      "Hash": "9UbXkqQJjJ7a0kTF\u002B6iQ67Tvui6s1eaYuVdTXu0eZ1w=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Data.dll": {
+      "Hash": "vFnR3XcFAkcvnUqlWGIjScbqg3PCgTk0kYaweAZtBwc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll": {
+      "Hash": "MIkdDYg3dfiAhAHMQa\u002BL3sVKqkNUHxxEtAuBsJrBsMA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Localization.Routing.dll": {
+      "Hash": "gjU0TpSlU4bvfoiw\u002BmXHq8Rh1hEtm5ZTcr\u002Bgjn/a5MU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCompression.dll": {
+      "Hash": "\u002BTPuIzdRx46D85/C/yZ291jlWhd8FapIMFBSMMrG/h4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authorization.dll": {
+      "Hash": "tWRWYNDuEyG5vzv5O6vZqQBbsnDYfMms9mhTXiZK\u002B2c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.Encoding.dll": {
+      "Hash": "xqGu1jLC09kzsByxLVdWnvfhsEyNE4biKNbAxDZX0JA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Serialization.Primitives.dll": {
+      "Hash": "QI2wFNGT3pcsIkklpBjMiG4A818GuwVRDC0WalGIVvI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.EventBasedAsync.dll": {
+      "Hash": "bS7uCZXJi9GZsotHMl/HlMw/j\u002BZR8NbsRzeJCxIEnHg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.HttpsPolicy.dll": {
+      "Hash": "9tahKIHl85y3Xu/QKkENe/cx5IgXxE2uMOtlqgK7yNs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/netstandard.dll": {
+      "Hash": "timhX\u002B9/HrOTjgkC7ooFwVOKPbZa6MZf8V7fRZcSwBg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ServiceModel.Web.dll": {
+      "Hash": "vr0e87VP\u002BLvddcuIQZB5t\u002B0iqjnSu/wpKSiLh1qbtpU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Razor.Runtime.dll": {
+      "Hash": "I1jpAggNRD\u002BTfxQR0lRnCBYXr\u002BOSkVyPTtmEL8HbxFc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Core.dll": {
+      "Hash": "sQ8k0Nl0GEgqfFoUlJMYa3JGwGyrV7iTchzClnDph0I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.dll": {
+      "Hash": "UOH4\u002B/lS4ny6\u002BdG/p8FpJhgcl687sOlAVJsqyJZEvdM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Security.dll": {
+      "Hash": "pUawvM028v5GKm2ZwOBAW1vvs7sHq1evGqEn/PHtvBk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ServiceProcess.dll": {
+      "Hash": "iOP/zghPx8eBo/lBGqKwWTXyBXnq2D77VK730U7cwMk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/mscorlib.dll": {
+      "Hash": "h2RnUWmXVRyDgR62hH9WYu7Jl7sk30O7oc8kmfSrB5I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.dll": {
+      "Hash": "F2C9e1jvr3UeJJ30rzg4rYQSSboBQ2s\u002B82OYU\u002BC4vSk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/createdump": {
+      "Hash": "hpy\u002BNWlYissNQDbMDc6HZxHeK4wbuD3rvuxGIKfNUgI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Requests.dll": {
+      "Hash": "gs/VAZOeSPY0crYtz4Z14\u002BHHDp5\u002BTvDxuefjYg4EJ70=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Ping.dll": {
+      "Hash": "L6VlPReY9hF71JGLqpMbSwerrya38lprVDCR5C85MdQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.dll": {
+      "Hash": "zNnGrTnAZQRBIqKxMSTsV9hV2u33EpQ5WBfnP/eNJew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {
+      "Hash": "FpqYlclJaryrM9SSwx9bWkLQN48jvnqmXCgNokmFeO0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.XDocument.dll": {
+      "Hash": "Eq17sSNUon6c4aDAk6uYNVbRxw4B1OQd\u002BrGyjhqgDN0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.dll": {
+      "Hash": "4J/IphKfpTEB2Y3Wpgy\u002BQc3/J1ZNouUo5YyBIy97OUE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.dll": {
+      "Hash": "gfC39PfA6OMme9iR65Qg0DITl2AhjyYY3DZR1uIIuro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libSystem.Net.Security.Native.so": {
+      "Hash": "y\u002BAEeWidl5Z\u002BpeYGVioux15Ye\u002B6031w9au1XTbEWmM8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.UserSecrets.dll": {
+      "Hash": "GZkF1DLonuOslvOVi53G/0yR3LP8f90bM0jhzdVhqyk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Localization.dll": {
+      "Hash": "hLN4rFUTH/Yc/4Sx3IYTP\u002B1nHmLntsBdX8nUSoNcnT4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.Debug.dll": {
+      "Hash": "WkMbGqjtoMYs4gAfrgdbFWOeyYVVE7EdBvAkL77eLFo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libmscordbi.so": {
+      "Hash": "un\u002BHPk6Px\u002BJnDQUhzo1orzAxy017\u002Bgh6f0NieLqwlvo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Logging.EventSource.dll": {
+      "Hash": "50c/ate/410HEyo6pQu5K7TC9KVPlPPVZ8CDPH7/kM4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.Abstractions.dll": {
+      "Hash": "ZU1e5PpD6GPX\u002BmWi0U2HAKqWfxkQCuu5C3oE/9cW8Oc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Composite.dll": {
+      "Hash": "yNjgbou2uN5ICFYmoJ\u002Bx51fySnpwuk7iJ25QwsQhDnM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.FileVersionInfo.dll": {
+      "Hash": "gtIHQjHVkfFTC3UuZGjCwPD/2vHI\u002BpPbeKN2\u002B73phiU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.Annotations.dll": {
+      "Hash": "7HQ1Ap/ZKuadU1oN1fooSs9W41cwNy/\u002B5fmFetLq224=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Globalization.dll": {
+      "Hash": "iZCg\u002BNojuEAFNHMD4BbPNzfjelmU060xfT4QHJMqGFQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Features.dll": {
+      "Hash": "PPIUVNqnvjNPZyWB\u002Bh/iV6nbejf2VyE9b1FyuW4/nuY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.Encodings.Web.dll": {
+      "Hash": "ZcjeY13fzOIsbZGXk0ynCFdfMbHq4Up5dlt0ZIgFZRk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Private.CoreLib.dll": {
+      "Hash": "fJB3uaH8cxziSnFZjAcqicdxJIXMa1FfvGBbLyeHq\u002Bs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libSystem.Globalization.Native.so": {
+      "Hash": "BHlHKLL2FU7XJ2ACVzdQpZ74rm60XgEncwskmUiZMdo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.WebSockets.dll": {
+      "Hash": "QED9HuLpm94M\u002BBpce0TphxJ1v7fGBjwcP0U\u002BRTeoRao=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.NameResolution.dll": {
+      "Hash": "zbkf2/jeHCy/52800mcI53zAsZPwyZU6IkAcCsdJz8Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Sockets.dll": {
+      "Hash": "F1mxt3bX5LXjbmiOyFih/Ac3AT4WmCyvXrwHeEv/UWQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/detekcezmen": {
+      "Hash": "ZVvgBdQ3GmgX312PGzHEIv/cUlVXjm2jtlnH0X9ZDy4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.EventLog.dll": {
+      "Hash": "grRmAiQR5Q8KJXV34Z1eu\u002BrL39\u002BGX2f9eUpMyKkR\u002BWo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Claims.dll": {
+      "Hash": "ywjT4EPUvP3FuqO56t3iMoJGo43mW8TBXOH5b8hLzkg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Win32.Registry.dll": {
+      "Hash": "uzvrQaWWkVEqo1sVX/a6YbHHneP8k80GqIncM2B7mEA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Features.dll": {
+      "Hash": "x1VQj6Q77tKErY6cXqPCZU4TA8xGq0ZyRSVBMwXm8U0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.InteropServices.JavaScript.dll": {
+      "Hash": "gb4VSvIdmBQvN75HZuleKyKq7qnlTfUslT3ABE2gUNI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Hosting.dll": {
+      "Hash": "28Scy2c0GbQEWy\u002Bi55VxYR\u002BmtJnP5T0mHjRzDFo5Fuw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Metadata.dll": {
+      "Hash": "B30QZ\u002BrboXIFXdHDXkx0OLokz/yIolYGrHGp15nTUk0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libmscordaccore.so": {
+      "Hash": "MgrX7a0KuByfINZsE2DXlhMi2ipQXhz2y5I87UTn4yU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.Xml.dll": {
+      "Hash": "0vdpJ/8P9908r4M5XhkaSti14rdjGR9acPnsVNGVKQg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Thread.dll": {
+      "Hash": "WmMc2J43VzXeX5HEbvaxlYjbXkgNlI5Vhcax0IDYIeo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.dll": {
+      "Hash": "wSY2gl0SLKqaDjAXCAR8x59ULpXDl4ABiq3Cbv5YlBw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.ReaderWriter.dll": {
+      "Hash": "cNBZ5l12SLRL3oWGc9wTl4ucP/8Jy\u002BZ8PPp094JNxCc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.Forms.dll": {
+      "Hash": "3xchUCujvhJ1HIMRv3UnDyEhpupkYG9nQhQKKb1fAlA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Memory.dll": {
+      "Hash": "6BHj0QFqo/CYR5/bnWrQVQQeZ00rWQLP10ToAFIaXyM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Localization.dll": {
+      "Hash": "3vzvahcpBokeDdvD114lCRKddmsVkKjmlSwuMCb5dHw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.NetworkInformation.dll": {
+      "Hash": "sPYWTj5lirHAXEomEhTjtkF8wX8NPR1Ybrhent773Gs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Xml.dll": {
+      "Hash": "e9gytMKuFANaXEpme/CqXbvl\u002BCY3/t9M02BewjnHqr4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Tasks.Dataflow.dll": {
+      "Hash": "IYi9tZwZpP6aXgfPCLHDvE1AgTygWJCyUoGTParFFu4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Tasks.Parallel.dll": {
+      "Hash": "8KT0FgO3fdmSKx10gD0LE3m1g6t38/TT6Ei7QokhM4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.RequestDecompression.dll": {
+      "Hash": "QhsjQPUzwqGet1wTOaNtjcDDQwNRpMLno6JrqNNpaLo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.InteropServices.dll": {
+      "Hash": "jIaC7oi6v4g8C3rBTgHQGRJf1w1BYem3uLV8Nj9Er80=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/detekcezmen.pdb": {
+      "Hash": "6yH\u002BjMbb4AkZd4NjcVWpFbUc0prmrzcYkUVuVjbbIJk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Extensions.dll": {
+      "Hash": "p7efvCrmdcvOzJ01bgvbIqAYtxqW01KENYnvhxWKMW8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Components.Authorization.dll": {
+      "Hash": "VbL/Ztja30lS9O6YpiCe8RNwyVMFMf9i09mcr9yMvzU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.UnmanagedMemoryStream.dll": {
+      "Hash": "rnFu0ZJMsVIBqXk1dUhBxRcL1aOqTKllijzSKwPUSsA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Http.Json.dll": {
+      "Hash": "gU\u002B\u002Bb/3WNRCyUUrD82W5Qe68nSrxUn\u002BSBWz1lkV3Kxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Serialization.Formatters.dll": {
+      "Hash": "c\u002BUvTwcOpMQGg\u002BDQkIV4GJjEovyCeJTAUHpsauxpXlw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Primitives.dll": {
+      "Hash": "EfHiWhMi1rdr5FT1dWOkYV4nd5aiAOgV2kAAMxR7y5k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.FileSystem.Primitives.dll": {
+      "Hash": "eC3oJtuM00NQOkD3EWtkVQy\u002B3HJrCxSP04TQmoluPEM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Connections.Common.dll": {
+      "Hash": "bwGd3jzvfH3zKugmhcqamSxLRihbvCg7r9P5SHBVG5k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
+      "Hash": "TYdhH5wDbCsnZxaz8jWp86iTlzdi2gyV9OtJ6yXf3\u002Bs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.FileSystem.dll": {
+      "Hash": "i1L\u002BKH3wpTjHurk3DmtpNuVph8Eb\u002BvzDN48zbci/zlw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libcoreclrtraceptprovider.so": {
+      "Hash": "DDJMSinVU31o8GZ6ipRlLtjsxQvh7OFg2luSejGsiJU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Configuration.CommandLine.dll": {
+      "Hash": "pF6jGeu2D1sZhyjJ51P/icwgjLa1Ky2lkrhR4CCikCY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.FileSystem.Watcher.dll": {
+      "Hash": "wq3qIW4AyqTmNdaYyjBd\u002BfUfB05GOpqWYsT08S9N0SY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.Encoding.CodePages.dll": {
+      "Hash": "iYcmCDdAIyK/FJiBtV25pCMCHN/5gCj8hvV1TDb\u002B6z4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.dll": {
+      "Hash": "2ZTsYwV78CHU/YBTQFK3jxr59C9bmQUmCcQNUHZdidE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.AccessControl.dll": {
+      "Hash": "ZD6XGBxr0yJU6\u002Bw719etlLlcjwgBJfXOaEGRKkvzTs4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Emit.ILGeneration.dll": {
+      "Hash": "u\u002BXfkClkmrRpbTW55CA\u002BALkECkPKuwLtd5Ud2ZVpExc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.WebUtilities.dll": {
+      "Hash": "KzuMXsQ6Y2sjxrDS78u3IwVl9LgEd7M0A8LrzTCZ5qc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.dll": {
+      "Hash": "mGLp\u002ByQ6hCfEQLgRt0HECAcd9G2/ym0TA1y0WI9Gj9g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll": {
+      "Hash": "EBeYXD4ulp8BvNgfzalwALpB8e8leK2WfuElrDHcyvE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.JSInterop.dll": {
+      "Hash": "HTZjiGE98G04yBbED1x15keKoHqIEbRFix/gWLaObYo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Primitives.dll": {
+      "Hash": "TJOAmIspcewXs3Q7oUe3ajWarKIMbMQLM6v/9zJaD\u002BM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Xml.XmlSerializer.dll": {
+      "Hash": "k4pYSPLqLsyVuUQbzYFvUr5GCpeU7RvqQ620j2MvuOU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Core.dll": {
+      "Hash": "0MtCBYWEv21Mpu9M64x817S0QQre6uXOamdxECD/htU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/libSystem.Security.Cryptography.Native.OpenSsl.so": {
+      "Hash": "U3moaXZ7r6OOAuCgt5fWYWnWAPpqtQK9PF\u002BgbtC9c5E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Serialization.dll": {
+      "Hash": "97QXgiR9fZtHGkK5jI6JGEV2/w5NiF7cQoiD4iS5Kig=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+      "Hash": "E8lEOKsf0B1/7445t4OlDl1m/lHD1NAnEM0zbHN2lVU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Text.Encoding.Extensions.dll": {
+      "Hash": "M3c39ThZXclFER0UyIu\u002B9KvDd5wIwo08etzVFnVDXks=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Net.Http.Headers.dll": {
+      "Hash": "R6LaUpLh54jiqfRriqLPl70pGUBchSE\u002BBp92JV3FneI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Threading.Timer.dll": {
+      "Hash": "0ZGRsPc3Ppvs6BOe3IdU\u002BrkxItya9TLOoOfwWUQr808=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.CSharp.dll": {
+      "Hash": "b4akMoB3zR7DQdcFTUt6ML/igOjODHVLF4OBYV/uBxg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Options.dll": {
+      "Hash": "\u002BgJbUvnHGbjSppM0g40LXpRmuQBRdVmLAwlZ9HSqUls=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.ComponentModel.Primitives.dll": {
+      "Hash": "4D2gcN588Gmhn1IwoAdl3qV5wF/aWMoKaFHSTWUpKiU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Razor.dll": {
+      "Hash": "RZKJCcOg8pL4m3jKhvEwkBoxTMLHWAEgjLeAzLYyj2k=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.OpenSsl.dll": {
+      "Hash": "x6DTiU3wVZU6nlevTh6q0gBNRhtrXm3DkJLZZiTMDh0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Collections.Concurrent.dll": {
+      "Hash": "zJEluioGw4NYh29AMedrPvajZVPiCyabxs3LlRFJwjM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Configuration.dll": {
+      "Hash": "SIjlXSjXvzTOQ8Kte4\u002BdR3vHhhJ6XkhA2fnsAZPaQi8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.HttpListener.dll": {
+      "Hash": "KK9ndKvVPzF\u002B9KXSr7Jo5\u002BIsh9jUhqcYa12yZBck0Og=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.Primitives.dll": {
+      "Hash": "xTosOSf4H9WTUg9pdHeKJvCsnHvdsOU\u002Bh9woWyuATD0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.dll": {
+      "Hash": "amNWVXnuoJnwsPScGgQvqhcoowNdsME7G\u002BXvKTLCGYo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
+      "Hash": "OqcLiuezZPjQj9NWNR5y8feXAUQklWhU/LnG7LqRWl8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Linq.Expressions.dll": {
+      "Hash": "McSz88xID7jqjUlKk6o5uUineTuoON360oYkctT6ia8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Private.Xml.dll": {
+      "Hash": "oKEfLdraZ2eXQICapq/jKQlczsf\u002BFo2lkU9uXeBsf3Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Numerics.dll": {
+      "Hash": "AqO3snz5pSxsYfY0wSTJS1SatKCHG\u002BqgNIy1Ay7HwH0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Principal.Windows.dll": {
+      "Hash": "qRMatdvFNu\u002BMrjJtwnN/wad9h3KUKSHJIwluvayKxT4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Diagnostics.Tracing.dll": {
+      "Hash": "LdP9ifR0xPL9Cj6uDA7XpUw10J9s4OEf31f8ADxFbKk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.Intrinsics.dll": {
+      "Hash": "UXEyxkIH8l4DczjAc3oJb79ltYGoLcjmM5o/vCvaq8I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+      "Hash": "Y3LOd6Edw6o6DNbSjuUdIfG69IPjV/9En5H5lSKUMXY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.WebSockets.dll": {
+      "Hash": "6c1LRLf0jJVu9opF0U4Q6/0aSc5azwvDyi\u002BkeUfmbzk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Reflection.TypeExtensions.dll": {
+      "Hash": "gfWa\u002BQwMdfbE59\u002BJlnKxbD\u002BWSG40WKWnT3yAAiDOrow=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.Extensions.dll": {
+      "Hash": "RUL/7JVn6bdzHWOvvL5yYfok4h6kfha9h1xHfz83fbw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.IO.FileSystem.AccessControl.dll": {
+      "Hash": "B7TJWbKUxqAAGlhRN72JHBb0rQScBPolA\u002B/oIwITPSI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.AspNetCore.Http.Extensions.dll": {
+      "Hash": "IcQmweNpj5Za2ERdxscLR3yru2cY2\u002B/tjJd54\u002BV/Cxo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Transactions.dll": {
+      "Hash": "Q2npuuuQQJiOv/D77qIVLMejlm1lHTMYOoH9RsxBGcY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Runtime.InteropServices.RuntimeInformation.dll": {
+      "Hash": "o2XrZ3J0TQ8W292Q188rQ1cZNJfqi61TZke12D8JU8g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Transactions.Local.dll": {
+      "Hash": "jCt4D86gFaFXbhEdRD/mrH8fi5Qc6FB\u002BOKG1KDmvn2Y=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Net.Http.dll": {
+      "Hash": "KYbg5JDP3aHUdE7vGCT\u002BdgCWhO3CZwZVE4l1NNuPrmU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/System.Security.Cryptography.Csp.dll": {
+      "Hash": "IrNTj01q8xFPfNWOJBZDefE6JMhVgqB0xHFyfFKk3YY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/Microsoft.Extensions.Caching.Memory.dll": {
+      "Hash": "060zGGZtUOogMzUXV/pwp6w2vRSj5QTJodeIPlUwoC4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/favicon.ico": {
+      "Hash": "fOTMIv05c5D05F2EDWcnfYoNttFyC/4mSbeqGmbQwEk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/detekcezmen.styles.css": {
+      "Hash": "lrVmH\u002BKAmZuQFwKOchSm6VBXdKjw/da37osFKC4KbRE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery/LICENSE.txt": {
+      "Hash": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery/dist/jquery.min.map": {
+      "Hash": "OZVI\u002Bw57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery/dist/jquery.min.js": {
+      "Hash": "/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery/dist/jquery.js": {
+      "Hash": "H\u002BK7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/LICENSE": {
+      "Hash": "ZH6pA6BSx6fuHZvdaKph1DwUJ\u002BVSYilIiEQu8ilnvqk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map": {
+      "Hash": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb\u002B0YBVU8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map": {
+      "Hash": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map": {
+      "Hash": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css": {
+      "Hash": "22wR6QTidoeiRZXp6zkRQyMSUb/FB\u002BAv11jqmZJF6uU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css": {
+      "Hash": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css": {
+      "Hash": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css": {
+      "Hash": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map": {
+      "Hash": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs\u002BWu6U8g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css": {
+      "Hash": "JtktgiuQAd\u002BAXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css": {
+      "Hash": "SZ2mKaD4A\u002Bb\u002BHIvttwl\u002BTvLFnVy8o8/X40j\u002BEKVwyvY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map": {
+      "Hash": "2BbRsE/\u002BczX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css": {
+      "Hash": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map": {
+      "Hash": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map": {
+      "Hash": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map": {
+      "Hash": "72C/qDCGu\u002BOwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map": {
+      "Hash": "GMDk5pA5dFkOimkBAWeEjYZ\u002B7lgHPS0jYln6p/WJVYs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map": {
+      "Hash": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map": {
+      "Hash": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css": {
+      "Hash": "5\u002BExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css": {
+      "Hash": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css": {
+      "Hash": "NbFZxZLmBVNLzb/7B0WdFfb6\u002B8jXHGX6XY190uwgbec=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css": {
+      "Hash": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj\u002BXFifSSqN4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map": {
+      "Hash": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d\u002B9/qNju20=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map": {
+      "Hash": "NDSZjIiMPRIoO7/w7\u002BjHef8retP4riQa8PMj4BVRGok=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css": {
+      "Hash": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css": {
+      "Hash": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD\u002B3j0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css": {
+      "Hash": "z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map": {
+      "Hash": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX\u002B96Pt/88=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map": {
+      "Hash": "p1dop4slefZhL4zG2pa6\u002B2HUrOY1UUArGJXmet8Md9c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map": {
+      "Hash": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap.css": {
+      "Hash": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css": {
+      "Hash": "ysBT/JYxH9gcMnwxT4\u002BMB4sPxOx/JMg9wi77FA13T9A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map": {
+      "Hash": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map": {
+      "Hash": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": {
+      "Hash": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy\u002BNjNM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.js": {
+      "Hash": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map": {
+      "Hash": "ui/FQI\u002By0IUsY8Pbi80b8s3GeEL\u002BPsvdaLTONobpn88=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map": {
+      "Hash": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map": {
+      "Hash": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": {
+      "Hash": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": {
+      "Hash": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ\u002Bw4v6TE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": {
+      "Hash": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": {
+      "Hash": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map": {
+      "Hash": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation/LICENSE.md": {
+      "Hash": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation/dist/jquery.validate.js": {
+      "Hash": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js": {
+      "Hash": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation/dist/additional-methods.js": {
+      "Hash": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation/dist/additional-methods.min.js": {
+      "Hash": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js": {
+      "Hash": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt": {
+      "Hash": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js": {
+      "Hash": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo\u002BWQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/css/site.css": {
+      "Hash": "pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/wwwroot/js/site.js": {
+      "Hash": "GpvatwKiCfFNVRS2OuhrmA\u002BP\u002Bmr9qpdPCNwSMw3ARO0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/publish/appdata/files.json": {
+      "Hash": "qKIO3Y\u002BSl/mgTJGsF3lZbYKqhJ2gc4IhJEH3JMuH41M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Release/net8.0/linux-x64/appdata/files.json": {
+      "Hash": "pdNhcIi60uas2/NA8\u002B4qTwFRqw\u002BZjEEM\u002Bbe5971FP6A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/appsettings.json": {
+      "Hash": "IAMytDR1egBUo9NWyRzeAfLEhxK\u002BiqK8sPPpc2GfBuM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen.deps.json": {
+      "Hash": "ckQDLq5zkOH6kMnTkMNsLc8AHhycoqEuLduOG/2\u002BFfk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/appsettings.Development.json": {
+      "Hash": "c/lfngzrIF/BxNxQwHaX/Pop1wh4aMKu8dUEyzjHcew=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen.dll": {
+      "Hash": "UG5KMOqR7\u002BiKLTfGBvadukR\u002B2fv4ArlIXG\u002By5HZcOz4=",
+      "Version": 7
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen.runtimeconfig.json": {
+      "Hash": "zdJUaZak12yUHzOr49beq0xpxp2oJa1NCozyfQ3FCr4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen": {
+      "Hash": "ZVvgBdQ3GmgX312PGzHEIv/cUlVXjm2jtlnH0X9ZDy4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen.pdb": {
+      "Hash": "P8XMIwPrQSVbuH8OWU76vYKDhzGBt7pZa\u002BrJaKu7Adw=",
+      "Version": 7
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/detekcezmen.staticwebassets.runtime.json": {
+      "Hash": "nt7qDnSA2rVf6nw5n8i6bVf2evRVVJoaXTBry1nibIY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/bin/Debug/net8.0/appdata/files.json": {
+      "Hash": "\u002BA4K6U57KgNkhGhcodrQIPizurYMeHIIQk156ejCnzo=",
+      "Version": 7
+    },
+    "/root/pux/detekcezmen/Models/AnalyzeResult.cs": {
+      "Hash": "RdOj3P5tWMUDr\u002BZkzRKg37ueO0Zn8sOTmNgZ40WvR8I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Models/FileMetadata.cs": {
+      "Hash": "27K5ThAhBw7LeO6wW7mJplNj96TyeydopPKeEmeCZ7g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Models/ErrorViewModel.cs": {
+      "Hash": "lCy9M\u002BlUDQQmUFPwxBlwlj/tvT5W7f/yBGao1u8ICzY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/_ViewImports.cshtml": {
+      "Hash": "ZddgCSftoRfxCvlt3IgMGtRDA4d7hP91Blk6fSbISxQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/_ViewStart.cshtml": {
+      "Hash": "G4SW0VcI5dZVS2B\u002BzKTiJtl5f/323Jf/EME3rl9fzPQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/Home/Index.cshtml": {
+      "Hash": "z4IS4MpWb4/JpPH6YQDMG5AA6qsf1IyuRTnaXoZrNzg=",
+      "Version": 9
+    },
+    "/root/pux/detekcezmen/Views/Home/Privacy.cshtml": {
+      "Hash": "CTeUFekwHZvV/h63tWPnubf6QvABub7tXMOO3YiIfDY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/Shared/_Layout.cshtml.css": {
+      "Hash": "YdSvYqzP8slyr7h6YWHXVh47y7TTJ2fakXhiOe8M3lk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/Shared/_ValidationScriptsPartial.cshtml": {
+      "Hash": "I8rP/3rdB7\u002BtKS/IJvUpNLgUEAa3JUepom5HVOdLr\u002BY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/Shared/Error.cshtml": {
+      "Hash": "bavshRhzOhBsZ0lLbMXzB7Z8jEfEBLGrkBkXc\u002B9oQQE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Views/Shared/_Layout.cshtml": {
+      "Hash": "2TUkJ6XiJ0SKh5h1zhPmSGhJBhjeEwRk0e/gzah1js0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Properties/launchSettings.json": {
+      "Hash": "eSYszM83GTeaMXfvo9zcPZOjx75vTseESmbXSYl3euk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/favicon.ico": {
+      "Hash": "fOTMIv05c5D05F2EDWcnfYoNttFyC/4mSbeqGmbQwEk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery/LICENSE.txt": {
+      "Hash": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery/dist/jquery.min.map": {
+      "Hash": "OZVI\u002Bw57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery/dist/jquery.min.js": {
+      "Hash": "/xUj\u002B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery/dist/jquery.js": {
+      "Hash": "H\u002BK7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/LICENSE": {
+      "Hash": "ZH6pA6BSx6fuHZvdaKph1DwUJ\u002BVSYilIiEQu8ilnvqk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map": {
+      "Hash": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb\u002B0YBVU8=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map": {
+      "Hash": "puDgKwvlFAord9R8G8of9P2CVYIJUFSoIbjDLEsKEH0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map": {
+      "Hash": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css": {
+      "Hash": "22wR6QTidoeiRZXp6zkRQyMSUb/FB\u002BAv11jqmZJF6uU=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css": {
+      "Hash": "3vUJkZSpKL/zG7x6GNvDjs0TxYUo9zMt6dAc8hp9CVo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css": {
+      "Hash": "8NXw3kF49FkQVPMdjnGDqoXXRU0TwzsLfCGbK9U8gnk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css": {
+      "Hash": "4zbWr0QNFhpUwGkn4WdGWXt80KnhRFv0qXkZyVnhajY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map": {
+      "Hash": "qvA39OMlEs53jaewqVFmE8DQQrio47bZtlTs\u002BWu6U8g=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css": {
+      "Hash": "JtktgiuQAd\u002BAXerCnPMrHCDz1h5AtkH5tobvpuG7xZ4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css": {
+      "Hash": "SZ2mKaD4A\u002Bb\u002BHIvttwl\u002BTvLFnVy8o8/X40j\u002BEKVwyvY=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map": {
+      "Hash": "2BbRsE/\u002BczX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css": {
+      "Hash": "peAGH8Gu/ZL9VnbUGSMN69Ji5MxwbvOb53gDXU2cPaQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map": {
+      "Hash": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map": {
+      "Hash": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map": {
+      "Hash": "72C/qDCGu\u002BOwWeVA03bf9Ke0T8oIozCub0lfJkhzhvE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map": {
+      "Hash": "GMDk5pA5dFkOimkBAWeEjYZ\u002B7lgHPS0jYln6p/WJVYs=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map": {
+      "Hash": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map": {
+      "Hash": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css": {
+      "Hash": "5\u002BExmMkiaI3keYQRLhNibJ5ZXnNuWRbwrXOAZoTXMFg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css": {
+      "Hash": "z0OApR88UEocYXTXHU7Ueycaiib9XbDUmel9Gx0gbx4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css": {
+      "Hash": "NbFZxZLmBVNLzb/7B0WdFfb6\u002B8jXHGX6XY190uwgbec=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css": {
+      "Hash": "Wi5ZuFSHLfx6dlEgjvW3BY9TC/1NqdBjj\u002BXFifSSqN4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map": {
+      "Hash": "4WIqPof/vrXYO/jeJ4fDOQKUYWIwe64V3d\u002B9/qNju20=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map": {
+      "Hash": "NDSZjIiMPRIoO7/w7\u002BjHef8retP4riQa8PMj4BVRGok=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css": {
+      "Hash": "a5KlgysZ4fQXw4rzIvXDHErFDPeHRSLccP7kX6HuvSQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css": {
+      "Hash": "O6lb2kXarGgVw4/RDD42yYPhZIwREthThQFKGmD\u002B3j0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css": {
+      "Hash": "z8OR40MowJ8GgK6P89Y\u002BhiJK5\u002BcclzFHzLhFQLL92bg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map": {
+      "Hash": "02ka4ymoE5yEecLUncLG3/SouTQMnTJOktX\u002B96Pt/88=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map": {
+      "Hash": "p1dop4slefZhL4zG2pa6\u002B2HUrOY1UUArGJXmet8Md9c=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map": {
+      "Hash": "QO8cMbVkLiktUX1cHeXSUSe5nXMXUgyL9cjwnMyxPqc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap.css": {
+      "Hash": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css": {
+      "Hash": "ysBT/JYxH9gcMnwxT4\u002BMB4sPxOx/JMg9wi77FA13T9A=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map": {
+      "Hash": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map": {
+      "Hash": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js": {
+      "Hash": "c4Ll6eSIg6Eothk8pCWAF8aE923EvtU11pqjBy\u002BNjNM=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.js": {
+      "Hash": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map": {
+      "Hash": "ui/FQI\u002By0IUsY8Pbi80b8s3GeEL\u002BPsvdaLTONobpn88=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map": {
+      "Hash": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map": {
+      "Hash": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js": {
+      "Hash": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js": {
+      "Hash": "Kj4irQWPwfSb5NFeos/h0IroI5/nIg0HtAjQ\u002Bw4v6TE=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js": {
+      "Hash": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js": {
+      "Hash": "KuvCVS19rfTjoLgMyDDCdOkRRlhNrY4psEM4uezts2M=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map": {
+      "Hash": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation/LICENSE.md": {
+      "Hash": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation/dist/jquery.validate.js": {
+      "Hash": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js": {
+      "Hash": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation/dist/additional-methods.js": {
+      "Hash": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation/dist/additional-methods.min.js": {
+      "Hash": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js": {
+      "Hash": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt": {
+      "Hash": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js": {
+      "Hash": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo\u002BWQ=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/css/site.css": {
+      "Hash": "pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/wwwroot/js/site.js": {
+      "Hash": "GpvatwKiCfFNVRS2OuhrmA\u002BP\u002Bmr9qpdPCNwSMw3ARO0=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/Controllers/HomeController.cs": {
+      "Hash": "Hp752h9IIhBJbjQbl8k93l2pt3Z4H03k0DJ9fvyMyXI=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/appdata/files.json": {
+      "Hash": "f9GYc7Qh2KYqsdFfKBUhobidyYapWeqiTZNdlhqbd1A=",
+      "Version": 11
+    },
+    "/root/pux/detekcezmen/Services/Analyzer.cs": {
+      "Hash": "soHUCQMheYcMy5BdDZ0dsRQ/aXvTzUfn8WP\u002BfXTbFII=",
+      "Version": 1
+    },
+    "/root/pux/detekcezmen/c": {
+      "Hash": "47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "Version": 1
+    }
+  }
+}
