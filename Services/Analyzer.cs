@@ -28,9 +28,19 @@ public class Analyzer
     {
         if (!filesDictionary.Files.ContainsKey(file))
         {
+            string hash = string.Empty;
+            try
+            {
+                hash = ComputeHash(File.ReadAllText(file));
+            }
+            catch (IOException ex)
+            {
+                throw new IOException($"Failed to read file '{file}'.", ex);
+            }
+
             filesDictionary.Files[file] = new FileMetadata
             {
-                Hash = ComputeHash(File.ReadAllText(file)),
+                Hash = hash,
                 Version = 1
             };
             result.NewFiles.Add((file, 1));
@@ -38,7 +48,15 @@ public class Analyzer
         else
         {
             var fileMetadata = filesDictionary.Files[file];
-            var currentHash = ComputeHash(File.ReadAllText(file));
+            var currentHash = string.Empty;
+            try
+            {
+                currentHash = ComputeHash(File.ReadAllText(file));
+            }
+            catch (IOException ex)
+            {
+                throw new IOException($"Failed to read file '{file}'.", ex);
+            }
             if (fileMetadata.Hash != currentHash)
             {
                 filesDictionary.Files[file].Hash = currentHash;
@@ -76,7 +94,16 @@ public class Analyzer
             throw new ArgumentException("Source folder cannot be null or empty.", nameof(srcFolder));
         }
 
-        string jsonString = File.ReadAllText(Path.Combine(_env.ContentRootPath, "appdata", "files.json"));
+        string jsonString;
+
+        try
+        {
+            jsonString = File.ReadAllText(Path.Combine(_env.ContentRootPath, "appdata", "files.json"));
+        }
+        catch (FileNotFoundException)
+        {
+            throw new FileNotFoundException("The file 'files.json' does not exist in the appdata directory.");
+        }
 
         FilesDictionary filesDictionary = JsonSerializer.Deserialize<FilesDictionary>(jsonString)
             ?? new FilesDictionary();
@@ -94,7 +121,14 @@ public class Analyzer
         }
 
         string updatedJson = JsonSerializer.Serialize(filesDictionary, new JsonSerializerOptions { WriteIndented = true });
-        File.WriteAllText(Path.Combine(_env.ContentRootPath, "appdata", "files.json"), updatedJson);
+        try
+        {
+            File.WriteAllText(Path.Combine(_env.ContentRootPath, "appdata", "files.json"), updatedJson);
+        }
+        catch (Exception ex)
+        {
+            throw new IOException("Failed to write to 'files.json'.", ex);
+        }
 
         return result;
     }
