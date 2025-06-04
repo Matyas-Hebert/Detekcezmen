@@ -18,4 +18,8 @@ Aplikace slouží k analýze adresáře na vstupu a výpisu souborů jež byly p
 6. Změněný `FilesDictionary` se serializuje a uloží do `files.json`.
 
 ## Omezení řešení
-1. 
+1. Analýza může být pomalejší při větším počtu souborů, neboť při každém spuštění musí znovu načíst a zhashovat všechny souboru.
+2. Změna souboru, která je později vrácena do původního stavu může být:
+   - detekována jako změna, pokud byla mezitím provedena analýza
+   - nedetekována vůbec pokudd k analýze došlo až po vrácení změn
+3. V případě spuštění více instancí aplikace či zápisu do souborů při běhu analýzy může docházet k race-condition.
